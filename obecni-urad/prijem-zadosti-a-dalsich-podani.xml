@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="prijem-zadosti-a-dalsich-podani">
+   <title>Příjem žádostí a dalších podání</title>
+   <section xml:id="prijem-zadosti">
+      <title>Příjem žádosti</title>
+      <simplesect>
+         <title>Náležitosti žádosti</title>
+         <orderedlist>
+            <listitem>
+               <para>komu je určena</para>
+            </listitem>
+            <listitem>
+               <para>jaká konkrétní informace je požadována</para>
+            </listitem>
+            <listitem>
+               <para>informace o žadateli (jméno, příjmení, datum narození a adresa místa
+                  trvalého pobytu)</para>
+            </listitem>
+         </orderedlist>
+         <para>Neobsahuje-li žádost tyto údaje a zároveň jsou údaje potřeba k vyřízení žádosti
+            o informaci, žádost se odloží a do sedmi dnů se žadateli zašle výzva k doplnění
+            informací.</para>
+      </simplesect>
+      <simplesect>
+         <title>Způsob podání žádosti</title>
+         <orderedlist>
+            <listitem>
+               <para>osobní podání: na Obecním úřadě</para>
+            </listitem>
+            <listitem>
+               <para>telefonické podání: 494 666 111</para>
+            </listitem>
+            <listitem>
+               <para>písemné podání prostřednictvím formuláře pokud není žadateli na ústně
+                  (osobně či telefonicky) podanou žádost informace poskytnuta a nebo
+                  nepovažuje-li žadatel informaci takto poskytnutou za dostačující<itemizedlist>
+                     <listitem>
+                        <para>poštou na adresu Obecního úřadu</para>
+                     </listitem>
+                     <listitem>
+                        <para>elektronicky na e-mail: oubu@wo.cz (v žádosti nemusí být
+                           aplikován elektronický podpis)</para>
+                     </listitem>
+                     <listitem>
+                        <para>elektronicky datovou schránkou: k6iaugz</para>
+                     </listitem>
+                     <listitem>
+                        <para>faxem: 494 666 111</para>
+                     </listitem>
+                  </itemizedlist></para>
+            </listitem>
+         </orderedlist>
+      </simplesect>
+      <simplesect>
+         <title>Lhůty pro vyřízení žádosti</title>
+         <itemizedlist>
+            <listitem>
+               <para>Poskytnutí požadované informace od přijetí podání nebo upřesnění žádosti
+                  - do 15 dní s možností prodloužení na 25 dnů. Prodloužení lhůty je možné
+                  pouze ze závažných důvodů s tím, že žadatel je o prodloužení lhůty
+                  informován (§ 14 odst. 5, § 20 odst. 3 zákona).</para>
+            </listitem>
+            <listitem>
+               <para>Nevztahují-li se požadované informace k působnosti obecního úřadu či obce
+                  jako právnické osoby, žádost je odložena a tato skutečnost žadateli sdělena
+                  (§ 14 odst. 3 písm. b) zákona) - do 3 dnů od odložení.</para>
+            </listitem>
+            <listitem>
+               <para>Je-li žádost nesrozumitelná nebo formulovaná příliš obecně, je žadatel
+                  vyzván k jejímu upřesnění (§ 14 odst. 3 písm. a) zákona) - do 7 dnů od
+                  podání.</para>
+            </listitem>
+            <listitem>
+               <para>Podání odvolání žadatelem po obdržení rozhodnutí o odmítnutí informace
+                  nebo po marném uplynutí lhůty pro vyřízení žádosti (§ 16, odst. 2 zákona) -
+                  do 15 dnů.</para>
+            </listitem>
+            <listitem>
+               <para>Rozhodnutí odvolacího orgánu od předložení odvolání povinným subjektem -
+                  do 15 dnů. Upřesnění nesrozumitelné nebo obecně formulované žádosti na výzvu
+                  obecního úřadu (§ 14, odst. 3, písm.a zákona) - do 30 dnů od doručení
+                  výzvy.</para>
+            </listitem>
+         </itemizedlist>
+      </simplesect>
+   </section>
+   
+   <section xml:id="prijem-odvolani">
+      <title>Příjem odvolání</title>
+      <simplesect>
+         <title>Náležitosti odvolání</title>
+         <itemizedlist>
+            <listitem>
+               <para>popis žádosti o podání informace, které nebylo vyhověno</para>
+            </listitem>
+            <listitem>
+               <para>datum a místo podání</para>
+            </listitem>
+            <listitem>
+               <para>odůvodnění odvolání</para>
+            </listitem>
+            <listitem>
+               <para>podpis a bydliště žadatele</para>
+            </listitem>
+         </itemizedlist>
+      </simplesect>
+      <simplesect>
+         <title>Způsob podání odvolání</title>
+         <itemizedlist>
+            <listitem>
+               <para>osobní podaní na Obecním úřadě</para>
+            </listitem>
+            <listitem>
+               <para>písemné podání poštou na adresu Obecního úřadu</para>
+            </listitem>
+         </itemizedlist>
+      </simplesect>
+      <simplesect>
+         <title>Rozhodovací orgán</title>
+         <itemizedlist>
+            <listitem>
+               <para>obecní zastupitelstvo - jedná-li se o informace spadající do samostatné
+                  působnosti obce</para>
+            </listitem>
+            <listitem>
+               <para>krajský úřad - jde-li o informaci spadající do přenesené
+                  působnosti</para>
+            </listitem>
+         </itemizedlist>
+         <para>O odvolání je nutné rozhodnout do 15 dnů od předložení rozhodujícímu subjektu.
+            Pokud rozhodující subjekt v uvedené lhůtě o odvolání nerozhodl, má se za to, že
+            vydal rozhodnutí, kterým se odvolání zamítá a napadené rozhodnutí potvrdil.
+            Rozhodnutí o odmítnutí žádosti o poskytnutí informace je přezkoumatelné
+            soudem.</para>
+      </simplesect>
+   </section>
+</section>

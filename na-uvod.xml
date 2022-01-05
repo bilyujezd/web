@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preface xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="na-uvod">
+   <title>Na úvod</title>
+   <para>Rádi bychom Vám představili naši obec, její historii, pamětihodnosti, ale i současnost a
+      plány do budoucna. Dozvíte se bližší informace o činnosti Obecního zastupitelstva, naleznete
+      zde obecně závazné vyhlášky a nařízení, ale též postupy pro řešení běžných životních
+      situací.</para>
+   <para>Za jakékoliv náměty a připomínky předem děkujeme.</para>
+   <para>Zdeněk Arnošt, starosta obce</para>
+   <itemizedlist>
+      <title>Aktuálně</title>
+      <listitem>
+         <para>31.01.2021 - doplněna <link linkend="usneseni-zastupitelstva-obce-2020"
+               >usnesení</link> zastupitelstva obce.</para>
+      </listitem>
+      <listitem>
+         <para>26.12.2019 - přidána <link linkend="virtualni-prohlidka-obce">virtuální prohlídka
+               obce</link>.</para>
+      </listitem>
+   </itemizedlist>
+</preface>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="kontaktni-spojeni">
+   <title>Kontaktní spojení</title>
+   <simplesect>
+      <title>Kontaktní poštovní adresa</title>
+      <para>Obec Bílý Újezd</para>
+      <para>Bílý Újezd 42</para>
+      <para>518 01 Dobruška</para>
+   </simplesect>
+   <simplesect>
+      <title>Adresa úřadovny pro osobní návštěvu</title>
+      <para>Obec Bílý Újezd</para>
+      <para>Bílý Újezd 42</para>
+   </simplesect>
+   <simplesect>
+      <title>Úřední hodiny</title>
+      <informaltable>
+         <tbody>
+            <tr>
+               <td>Po, St</td>
+               <td>8:00 - 12:00</td>
+               <td>12:30 - 17:00</td>
+            </tr>
+            <tr>
+               <td>Út, Čt</td>
+               <td>8:00 - 12:00</td>
+               <td>12:30 - 14:00</td>
+            </tr>
+            <tr>
+               <td>Pá</td>
+               <td colspan="2" align="center">není úřední den</td>
+            </tr>
+         </tbody>
+      </informaltable>
+   </simplesect>
+   <simplesect>
+      <title>Telefon</title>
+      <para>494 666 111 (pevná linka)</para>
+      <para>724 183 043 (mobil)</para>
+   </simplesect>
+   <simplesect>
+      <title>Čísla faxu</title>
+      <para>494 666 111</para>
+   </simplesect>
+   <simplesect>
+      <title>Adresa internetové stránky</title>
+      <para>http://www.bilyujezd.cz</para>
+   </simplesect>
+   <simplesect>
+      <title>Adresa e-podatelny</title>
+      <para>oubu@wo.cz</para>
+   </simplesect>
+   <simplesect>
+      <title>Datová schránka</title>
+      <para>k6iaugz</para>
+   </simplesect>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="uredni-deska-archiv">
+   <title>Úřední deska - archiv</title>
+   <para>Archiv obsahuje pouze výčet dokumentů. Samotné dokumenty jsou k nahlédnutí na Obecním
+      úřadě.</para>
+   <?uredni-deska role="obsah-archiv"?>
+</section>

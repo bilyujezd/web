@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="zemedelstvi">
+   <title>Zemědělství</title>
+   <simplesect>
+      <title>Katastrální výměra obce</title>
+      <informaltable>
+         <thead>
+            <tr>
+               <th>Typ</th>
+               <th>Výměra</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Zemědělská půda</td>
+               <td align="right">1 155 ha</td>
+            </tr>
+            <tr>
+               <td>Lesní půda</td>
+               <td align="right">107 ha</td>
+            </tr>
+            <tr>
+               <td>Vodní plocha</td>
+               <td align="right">13 ha</td>
+            </tr>
+            <tr>
+               <td>Zastavěná plocha</td>
+               <td align="right">26 ha</td>
+            </tr>
+            <tr>
+               <td>Ostatní plocha</td>
+               <td align="right">81 ha</td>
+            </tr>
+            <tr>
+               <td>Celkem</td>
+               <td align="right">1 382 ha</td>
+            </tr>
+         </tbody>
+      </informaltable>
+   </simplesect>
+   <simplesect>
+      <title>Zemědělské podniky a farmy</title>
+      <para>V Bílém Újezdě je vybudováno středisko rostlinné a živočišné výroby zemědělského podniku
+         ZAES Podorlicko, a.s., se sídlem v Trnově. Další hospodářské budovy má tento podnik v
+         Hrošce a také v osadě Ostrov. V Mastech podniká soukromá farma pana Hanuše, další farmu,
+         tentokrát v Bílém Újezdě a Hrošce, obhospodařuje pan Kovář. V Hrošce je dále farma pana
+         Herzána.</para>
+   </simplesect>
+</section>

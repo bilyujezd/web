@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="dokumenty">
+   <title>Dokumenty</title>
+   <simplesect xml:id="seznamy-hlavnich-dokumentu">
+      <title>Seznamy hlavních dokumentů</title>
+      <itemizedlist>
+         <listitem>
+            <para><link linkend="uredni-deska">Úřední deska</link></para>
+         </listitem>
+         <listitem>
+            <para><link linkend="usneseni-zastupitelstva-obce">Usnesení zastupitelstva
+               obce</link></para>
+         </listitem>
+         <listitem>
+            <para><link linkend="obecne-zavazne-vyhlasky">Obecně závazné vyhlášky</link></para>
+         </listitem>
+         <listitem>
+            <para>Veřejnoprávní smlouvy</para>
+            <itemizedlist>
+               <listitem>
+                  <para><link xlink:href="data/verejnopravni-smlouvy-prestupky.pdf">O přenosu
+                        příslušnosti k projednávání přestupků</link> (PDF 0.2 MB)</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Ochrana osobních údajů (GDPR)<itemizedlist>
+                  <listitem>
+                     <para><link xlink:href="data/pravidla-ochrany-osobnich-udaju.pdf">Pravidla
+                           ochrany osobních údajů</link> (PDF 0.2 MB)</para>
+                  </listitem>
+               </itemizedlist></para>
+         </listitem>
+         <listitem>
+            <para>Zásady a sdělení</para>
+            <itemizedlist>
+               <listitem>
+                  <para><link linkend="zasady-poskytovani-pujcek-z-frb">Zásady poskytování půjček z
+                        Fondu rozvoje bydlení</link></para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect xml:id="uzemni-plan">
+      <title>Územní plán</title>
+      <itemizedlist>
+         <listitem>
+            <para>Právní stav po vydání změny č. 1 (účinnost od 14.9.2017)</para>
+            <itemizedlist>
+               <listitem>
+                  <para><link xlink:href="data/uzemni-plan-2017/uzemni-plan-2017-textova-cast.pdf"
+                        >Územní plán - textová část</link> (PDF 0.4 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2017/uzemni-plan-2017-zakladni-cleneni.pdf"
+                        >Základní členění území</link> (PDF 2 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link xlink:href="data/uzemni-plan-2017/uzemni-plan-2017-hlavni-vykres.pdf"
+                        >Hlavní výkres</link> (PDF 2 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2017/uzemni-plan-2017-verejne-prospesne-stavby.pdf"
+                        >Veřejně prospěšné stavby, opatření, asanace</link> (PDF 2 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2017/uzemni-plan-2017-koordinacni-vykres.pdf"
+                        >Koordinační výkres</link> (PDF 6 MB)</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Změna č. 1<itemizedlist>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-textova-cast.pdf"
+                           >Územní plán - textová část</link> (PDF 5.8 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-zakladni-cleneni.pdf"
+                           >Základní členění území</link> (PDF 0.6 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-hlavni-vykres.pdf"
+                           >Hlavní výkres</link> (PDF 11 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-verejne-prospesne-stavby.pdf"
+                           >Veřejně prospěšné stavby, opatření, asanace</link> (PDF 0.7 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-koordinacni-vykres.pdf"
+                           >Koordinační výkres</link> (PDF 3 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-sirsi-vztahy.pdf"
+                           >Širší vztahy</link> (PDF 0.9 MB)</para>
+                  </listitem>
+                  <listitem>
+                     <para><link
+                           xlink:href="data/uzemni-plan-zmena-1/uzemni-plan-zmena-1-zabory-pudniho-fondu.pdf"
+                           >Předpokládané zábory půdního fondu</link> (PDF 4 MB)</para>
+                  </listitem>
+               </itemizedlist>
+            </para>
+         </listitem>
+         <listitem>
+            <para>Původní stav platný od roku 2007</para>
+            <itemizedlist>
+               <listitem>
+                  <para><link xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-textova-cast.pdf"
+                        >Územní plán - textová část</link> (PDF 0.4 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-zakladni-cleneni.pdf"
+                        >Základní členění území</link> (PDF 3.2 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-hlavni-vykres-urbanisticka-koncepce.pdf"
+                        >Hlavní výkres - urbanistická koncepce, uspořádání krajiny, veřejná
+                        infrastruktura</link> (PDF 7.3 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-hlavni-vykres-technicka-infrastruktura.pdf"
+                        >Hlavní výkres - technická infrastruktura</link> (PDF 3.1 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-verejne-prospesne-stavby.pdf"
+                        >Veřejně prospěšné stavby, opatření, asanace</link> (PDF 3.9 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-koordinacni-vykres.pdf"
+                        >Koordinační výkres</link> (PDF 6.1 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-sirsi-vztahy.pdf"
+                        >Širší vztahy</link> (PDF 0.7 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-zabory-pudniho-fondu.pdf"
+                        >Předpokládané zábory půdního fondu</link> (PDF 0.2 MB)</para>
+               </listitem>
+               <listitem>
+                  <para><link
+                        xlink:href="data/uzemni-plan-2007/uzemni-plan-2007-zabory-pudniho-fondu-vykres.pdf"
+                        >Předpokládané zábory půdního fondu - výkres</link> (PDF 4.7 MB)</para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect xml:id="rozpocet">
+      <title>Rozpočet</title>
+      <itemizedlist>
+         <listitem>
+            <para>Obecní rozpočty</para>
+            <itemizedlist>
+               <listitem>
+                  <para>2015 <link xlink:href="data/rozpocet-2015/rozpocet-2015.pdf">schválený
+                        plán</link>, <link xlink:href="data/rozpocet-2015/zaverecny-ucet-2015.pdf"
+                        >závěrečný účet</link>, <link
+                           xlink:href="data/rozpocet-2015/vykaz-pro-hodnoceni-plneni-rozpoctu-2015.pdf">výkaz pro hodnocení
+                        plnění rozpočtu</link>, <link
+                        xlink:href="data/rozpocet-2015/zprava-o-vysledku-prezkoumani-hospodareni-2015.pdf"
+                        >zpráva o výsledku přezkoumání hospodaření</link>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>2016 <link xlink:href="data/rozpocet-2016/rozpocet-2016.pdf">schválený
+                        plán</link>, <link xlink:href="data/rozpocet-2016/zaverecny-ucet-2016.pdf"
+                        >závěrečný účet</link>, <link
+                           xlink:href="data/rozpocet-2016/vykaz-pro-hodnoceni-plneni-rozpoctu-2016.pdf">výkaz pro hodnocení
+                        plnění rozpočtu</link>, <link
+                        xlink:href="data/rozpocet-2016/zprava-o-vysledku-prezkoumani-hospodareni-2016.pdf"
+                        >zpráva o výsledku přezkoumání hospodaření</link>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>2017 <link xlink:href="data/rozpocet-2017/rozpocet-2017.pdf">schválený
+                        plán</link>, <link xlink:href="data/rozpocet-2017/zaverecny-ucet-2017.pdf"
+                        >závěrečný účet</link>, <link
+                           xlink:href="data/rozpocet-2017/vykaz-pro-hodnoceni-plneni-rozpoctu-2017.pdf">výkaz pro hodnocení
+                        plnění rozpočtu</link>, <link
+                        xlink:href="data/rozpocet-2017/zprava-o-vysledku-prezkoumani-hospodareni-2017.pdf"
+                        >zpráva o výsledku přezkoumání hospodaření</link>
+                     <itemizedlist>
+                        <listitem>
+                           <para>Úpravy rozpočtu: <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-uprava-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-uprava-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-uprava-03.pdf"
+                                 >3</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-uprava-04.pdf"
+                                 >4</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>Rozpočtová opatření: <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-03.pdf"
+                                 >3</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-04.pdf"
+                                 >4</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-05.pdf"
+                                 >5</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-06.pdf"
+                                 >6</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-07.pdf"
+                                 >7</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-08.pdf"
+                                 >8</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-09.pdf"
+                                 >9</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-10.pdf"
+                                 >10</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-11.pdf"
+                                 >11</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-12.pdf"
+                                 >12</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-13.pdf"
+                                 >13</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-14.pdf"
+                                 >14</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-15.pdf"
+                                 >15</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-16.pdf"
+                                 >16</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-17.pdf"
+                                 >17</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-18.pdf"
+                                 >18</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-19.pdf"
+                                 >19</link>, <link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-opatreni-20.pdf"
+                                 >20</link></para>
+                        </listitem>
+                        <listitem>
+                           <para><link
+                                 xlink:href="data/rozpocet-2017/rozpocet-2017-zmena-cisla-polozky.pdf"
+                                 >Změna čísla položky rozpočtové skladby</link></para>
+                        </listitem>
+                     </itemizedlist></para>
+               </listitem>
+               <listitem>
+                  <para>2018 <link xlink:href="data/rozpocet-2018/rozpocet-2018.pdf">schválený
+                        plán</link>, <link xlink:href="data/rozpocet-2018/zaverecny-ucet-2018.pdf"
+                        >závěrečný účet</link>, <link
+                           xlink:href="data/rozpocet-2018/vykaz-pro-hodnoceni-plneni-rozpoctu-2018.pdf">výkaz pro hodnocení
+                        plnění rozpočtu</link>, <link
+                        xlink:href="data/rozpocet-2018/zprava-o-vysledku-prezkoumani-hospodareni-2018.pdf"
+                        >zpráva o výsledku přezkoumání hospodaření</link>
+                     <itemizedlist>
+                        <listitem>
+                           <para>Úpravy rozpočtu: <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-uprava-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-uprava-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-uprava-03.pdf"
+                                 >3</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>Rozpočtová opatření: <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-03.pdf"
+                                 >3</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-04.pdf"
+                                 >4</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-05.pdf"
+                                 >5</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-06.pdf"
+                                 >6</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-07.pdf"
+                                 >7</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-08.pdf"
+                                 >8</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-09.pdf"
+                                 >9</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-10.pdf"
+                                 >10</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-11.pdf"
+                                 >11</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-12.pdf"
+                                 >12</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-13.pdf"
+                                 >13</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-14.pdf"
+                                 >14</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-15.pdf"
+                                 >15</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-16.pdf"
+                                 >16</link>, <link
+                                 xlink:href="data/rozpocet-2018/rozpocet-2018-opatreni-17.pdf"
+                                 >17</link></para>
+                        </listitem>
+                     </itemizedlist>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>2019 <link xlink:href="data/rozpocet-2019/rozpocet-2019.pdf">schválený
+                        plán</link>, <link xlink:href="data/rozpocet-2019/zaverecny-ucet-2019.pdf"
+                        >závěrečný účet</link>, <link
+                           xlink:href="data/rozpocet-2019/vykaz-pro-hodnoceni-plneni-rozpoctu-2019.pdf">výkaz pro hodnocení plnění rozpočtu</link>, <link
+                        xlink:href="data/rozpocet-2019/zprava-o-vysledku-prezkoumani-hospodareni-2019.pdf"
+                        >zpráva o výsledku přezkoumání hospodaření</link>
+                     <itemizedlist>
+                        <listitem>
+                           <para>Úpravy rozpočtu: <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-uprava-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-uprava-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-uprava-03.pdf"
+                                 >3</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>Rozpočtová opatření: <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-03.pdf"
+                                 >3</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-04.pdf"
+                                 >4</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-05.pdf"
+                                 >5</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-06.pdf"
+                                 >6</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-07.pdf"
+                                 >7</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-08.pdf"
+                                 >8</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-09.pdf"
+                                 >9</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-10.pdf"
+                                 >10</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-11.pdf"
+                                 >11</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-12.pdf"
+                                 >12</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-13.pdf"
+                                 >13</link>, <link
+                                 xlink:href="data/rozpocet-2019/rozpocet-2019-opatreni-14.pdf"
+                                 >14</link>
+                           </para>
+                        </listitem>
+                     </itemizedlist>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>2020 <link xlink:href="data/rozpocet-2020/rozpocet-2020.pdf">schválený
+                        plán</link>
+                     <itemizedlist>
+                        <listitem>
+                           <para>Úpravy rozpočtu: <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-uprava-01.pdf"
+                                 >1</link> , <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-uprava-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-uprava-03.pdf"
+                                 >3</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>Rozpočtová opatření: <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-01.pdf"
+                                 >1</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-02.pdf"
+                                 >2</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-03.pdf"
+                                 >3</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-04.pdf"
+                                 >4</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-05.pdf"
+                                 >5</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-06.pdf"
+                                 >6</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-07.pdf"
+                                 >7</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-08.pdf"
+                                 >8</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-09.pdf"
+                                 >9</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-10.pdf"
+                                 >10</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-11.pdf"
+                                 >11</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-12.pdf"
+                                 >12</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-13.pdf"
+                                 >13</link>, <link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-14.pdf"
+                                 >14</link>,<link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-15.pdf"
+                                 >15</link>,<link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-16.pdf"
+                                 >16</link>,<link
+                                 xlink:href="data/rozpocet-2020/rozpocet-2020-opatreni-17.pdf"
+                                 >17</link>
+                           </para>
+                        </listitem>
+                     </itemizedlist>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Rozpočty školy a školky</para>
+            <itemizedlist>
+               <listitem>
+                  <para>2015 <link xlink:href="data/rozpocet-2015/rozpocet-skola-2015.pdf">schválený
+                        plán</link></para>
+               </listitem>
+               <listitem>
+                  <para>2016 <link xlink:href="data/rozpocet-2016/rozpocet-skola-2016.pdf">schválený
+                        plán</link></para>
+               </listitem>
+               <listitem>
+                  <para>2017 <link xlink:href="data/rozpocet-2017/rozpocet-skola-2017.pdf">schválený
+                        plán</link></para>
+               </listitem>
+               <listitem>
+                  <para>2018 <link xlink:href="data/rozpocet-2018/rozpocet-skola-2018.pdf">schválený
+                        plán</link></para>
+               </listitem>
+               <listitem>
+                  <para>2019 <link xlink:href="data/rozpocet-2019/rozpocet-skola-2019.pdf">schválený
+                        plán</link></para>
+               </listitem>
+               <listitem>
+                  <para>2020 <link xlink:href="data/rozpocet-2020/rozpocet-skola-2020.pdf">schválený
+                        plán</link></para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+         <listitem>
+            <para>Střednědobé výhledy rozpočtu</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Obec <itemizedlist>
+                        <listitem>
+                           <para>období 2016-2018 <link
+                                 xlink:href="data/rozpocet-strednedoby-vyhled-2016-2018.pdf"
+                                 >schválený plán</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>období 2019-2021 <link
+                                 xlink:href="data/rozpocet-strednedoby-vyhled-2019-2021.pdf"
+                                 >schválený plán</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>období 2020-2022 <link
+                                 xlink:href="data/rozpocet-strednedoby-vyhled-2020-2022.pdf"
+                                 >schválený plán</link></para>
+                        </listitem>
+                     </itemizedlist>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Škola a školka<itemizedlist>
+                        <listitem>
+                           <para>období 2019-2021 <link
+                                 xlink:href="data/rozpocet-skola-strednedoby-vyhled-2019-2021.pdf"
+                                 >schválený plán</link></para>
+                        </listitem>
+                        <listitem>
+                           <para>období 2020-2022 <link
+                                 xlink:href="data/rozpocet-skola-strednedoby-vyhled-2020-2022.pdf"
+                                 >schválený plán</link></para>
+                        </listitem>
+                     </itemizedlist></para>
+               </listitem>
+            </itemizedlist>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+</section>

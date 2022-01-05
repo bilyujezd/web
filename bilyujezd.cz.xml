@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbookxi.rng" type="xml"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="index" xml:lang="cs">
+   <?dbhtml xinclude-based-chunking?>
+   <?dbhtml split-according-to-individual-xml-files="yes"?>
+   <info>
+      <title>Obec Bílý Újezd</title>
+      <subtitle>Hroška · Masty · Roudné</subtitle>
+   </info>
+   <!--cool things: footnotes!!!!, lists, copying HTML tables-->
+   <!--not cool things: hand made document tree, hidden pages or subpages, custom scripts (openlayers), footnotes counter is reset per chapter (so numbers in Vyhlášky do not match the original) -->
+   <!-- changes to script: resource folder casing -->
+   <xi:include href="na-uvod.xml"><?dbhtml do-not-chunk-this-xinclude?></xi:include>
+   <chapter xml:id="poloha-obce">
+      <title>Poloha obce</title>
+      <para>Obec leží v podhůří Orlických hor na trase silnice I. třídy č. 14 mezi městy Rychnov nad
+         Kněžnou a Dobruškou. Od severu k východu v dáli vystupuje celý pohraniční hřeben Orlických
+         hor s Velkou Deštnou, na východě Kralický Sněžník. K jihozápadu uzavírá široký obzor svah
+         za Voděrady (Vrchy) až k Opočnu, jehož zámek zřetelně vystupuje na západě. Za jasnějších
+         dní se na severu modrá celé pásmo Krkonoš se Sněžkou.</para>
+      <simplesect>
+         <title>Zeměpisná poloha Bílého Újezda</title>
+         <itemizedlist>
+            <listitem>
+               <para>Zeměpisná šířka: 50.238477 (50°14′19″ s. š.)</para>
+            </listitem>
+            <listitem>
+               <para>Zeměpisná délka: 16.225341 (16°13′31″ v. d.)</para>
+            </listitem>
+            <listitem>
+               <para>Nadmořská výška: 333 m</para>
+            </listitem>
+         </itemizedlist>
+      </simplesect>
+      <simplesect>
+         <title>Vzdálenosti</title>
+         <itemizedlist>
+            <listitem>
+               <para>Opočno: 11 km</para>
+            </listitem>
+            <listitem>
+               <para>Dobruška: 8 km</para>
+            </listitem>
+            <listitem>
+               <para>Solnice: 5 km</para>
+            </listitem>
+            <listitem>
+               <para>Kvasiny: 5 km</para>
+            </listitem>
+            <listitem>
+               <para>Rychnov nad Kněžnou: 9 km</para>
+            </listitem>
+         </itemizedlist>
+      </simplesect>
+      <simplesect>
+         <title>Mapa</title>
+         <para><?poloha-obce-mapa?></para>
+      </simplesect>
+   </chapter>
+   <chapter xml:id="virtualni-prohlidka-obce">
+      <title>Virtuální prohlídka obce</title>
+      <para>Kliknutím na tento <link xlink:href="https://www.virtualtravel.cz/export/bily-ujezd/"
+            >odkaz</link> budete přesměrováni na virtuální prohlídku obce. Vedle leteckého pohledu
+         si můžete prohlédnout náves, okolí školy, multifunkční hřiště, v Hrošce pak místní kapli
+         nebo areál koupaliště.</para>
+      <figure>
+         <title>Ukázka rozhraní</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="images/virtualni-prohlidka-obce.jpg"/>
+            </imageobject>
+         </mediaobject>
+      </figure>
+   </chapter>
+   <chapter xml:id="casti-obce">
+      <title>Části obce</title>
+      <para>Do roku 1960 hospodařily obce Hroška a Masty samostatně. Od roku 1960 jsou pod společnou
+         veřejnou správou s Bílým Újezdem a osadou Roudné.</para>
+      <simplesect>
+         <title>Bílý Újezd</title>
+         <para>Bílý Újezd leží na jižním svahu při hlavním tahu z Rychnova nad Kněžnou do Dobrušky.
+            Dominantou vsi je zděná zvonice z konce 16. století se šindelovou střechou. Zajímavostí
+            je sekerka zatnutá v její špičce. Ze stejného období pochází opodál stojící kostel
+            Proměnění Páně, jehož předchůdce je doložen již ve druhé polovině 14. století. Další
+            historickou stavbou je bývalá krčma, která leží poblíž křižovatky před zvonicí.</para>
+      </simplesect>
+      <simplesect>
+         <title>Roudné</title>
+         <para>V sousedství Bílého Újezda se nachází osada Roudné. Jde o skupinky rozesetých
+            stavení, které zde vyrostly převážně v první polovině 19. století. Tehdy se v
+            bezprostředním okolí těžila železná ruda pro huť ve Skuhrově nad Bělou. V 30. letech 20.
+            století bylo Roudné známé divadelními představeními ve zdejším přírodním divadle. V
+            pomyslném středu osady se nachází myslivecká chata Šesterák.</para>
+      </simplesect>
+      <simplesect>
+         <title>Hroška</title>
+         <para>Hroška se náchází v údolí jižně od Bílého Újezda. Středem vsi protéká od východu na
+            západ Ještětický potok. Jižní část vsi leží na návrší, které je od potoka odděleno
+            Podhradím – zastavěnou částí v místě bývalého lomu na opuku. Ve vsi se nalézá kaple sv.
+            Václava z roku 1887 a zajímavou dominantou je též pomník padlým ve světové válce.</para>
+         <para>V šedesátých letech 20. století bylo ve vsi postaveno koupaliště, které svými
+            parametry předběhlo i okolní města. Celkem záhy získalo věhlas a sjížděli se sem lidé ze
+            širokého okolí. V osmdesátých letech však kvalita vody přestala vyhovovat zpřísněným
+            nárokům a i díky rostoucí konkurenci nových koupališť v blízkých městech byl jeho
+            oficiální provoz ukončen.</para>
+      </simplesect>
+      <simplesect>
+         <title>Ostrov</title>
+         <para>V rovinaté oblasti východně od Hrošky se nachází osada Ostrov. V jeho blízkosti se
+            nachází několik hrází dnes již vysušených rybníků, z nichž největší dosahoval až ke
+            Hrošce. Je zde doložena tvrz, ale již v polovině 17. století se uvádí jako pustá. Zdejší
+            hospodářské budovy však sloužily až do nedávné doby nepřetržitě po celá staletí.</para>
+      </simplesect>
+      <simplesect>
+         <title>Ovčín</title>
+         <para>Jižně od Ostrova leží na mírném kopci tři roztroušená stavení, jimž dominoval starý
+            ovčín z počátku 19. století. Původně se zde chovaly ovce, když však na konci 19. století
+            klesla výkupní cena vlny, byly ovce nahrazeny skotem a vepři. Tomuto účelu sloužil až do
+            80. let minulého století. V roce 1992 od blesku vyhořel. Nedaleko leží rybník Buchta,
+            jediný z dávné rybniční soustavy, který se dochoval až do dnešních dní.</para>
+      </simplesect>
+      <simplesect>
+         <title>Masty</title>
+         <para>Masty leží severně od Bílého Újezda na svahu nad korytem Zlatého potoka. Dle pověsti
+            zde stávala tvrz, která údajně zanikla v polovině 17. století. V písemných záznamech
+            však jakýkoliv doklad chybí. Dominantou vsi je kaple Navštívení Panny Marie z roku 1834.
+            Východním směrem se nachází osada Polom, která leží na samém okraji rozsáhlého
+            kamenolomu.</para>
+      </simplesect>
+      <simplesect>
+         <title>Počet obyvatel</title>
+         <informaltable>
+            <thead>
+               <tr>
+                  <th rowspan="2">Část obce</th>
+                  <th colspan="2">Počet obyvatel</th>
+               </tr>
+               <tr>
+                  <th>30.6.2005</th>
+                  <th>28.5.2015</th>
+               </tr>
+            </thead>
+            <tbody>
+               <tr>
+                  <td>Bílý Újezd</td>
+                  <td>205</td>
+                  <td>267</td>
+               </tr>
+               <tr>
+                  <td>Hroška</td>
+                  <td>263</td>
+                  <td>255</td>
+               </tr>
+               <tr>
+                  <td>Masty</td>
+                  <td>68</td>
+                  <td>58</td>
+               </tr>
+               <tr>
+                  <td>Roudné</td>
+                  <td>70</td>
+                  <td>82</td>
+               </tr>
+               <tr>
+                  <td>Celkem</td>
+                  <td>606</td>
+                  <td>662</td>
+               </tr>
+            </tbody>
+         </informaltable>
+         <para>Počet trvale obydlených domů: 171</para>
+         <para>Počet rekreačních objektů: 41</para>
+         <para>(stav k 28. 5. 2015)</para>
+      </simplesect>
+   </chapter>
+   <chapter xml:id="charakteristika-obce">
+      <title>Charakteristika obce</title>
+      <xi:include href="charakteristika-obce/strucna-charakteristika.xml"/>
+      <xi:include href="charakteristika-obce/obcanska-vybavenost.xml"/>
+      <xi:include href="charakteristika-obce/technicka-infrastruktura.xml"/>
+      <xi:include href="charakteristika-obce/doprava.xml"/>
+      <xi:include href="charakteristika-obce/zemedelstvi.xml"/>
+      <xi:include href="charakteristika-obce/prumysl.xml"/>
+      <xi:include href="charakteristika-obce/ekonomicka-situace.xml"/>
+   </chapter>
+   <chapter xml:id="rozvoj-obce">
+      <title>Rozvoj obce</title>
+      <para>Od konce 90. let roste poptávka po novém bydlení. Obec reaguje přestavbou tehdy
+         nevyužité hrošecké školky na bytový dům pro 8 rodin. Dále přípravuje celkem 28 zasíťovaných
+         stavebních parcel v Bílém Újezdě v lokalitě „U Jeřábku“. Nové bydlení si budují občané i ve
+         staré zástavbě ve všech částech obce. Přiliv mladých rodin obec podporuje investicemi do
+         zázemí újezdecké školy i kapacitního navýšení zdejší školky.</para>
+      <para>Chloubou obce je víceúčelové hřiště s umělým povrchem a na něj navazující dětské hřiště
+         a altánek, nacházející se v centru Bílého Újezda. Každoročně se zde o prázdninách koná
+         Újezdecké sportovní léto – turnaje v tenise, nohejbalu a malé kopané. Zázemí zde má i
+         úspěšný hokejový klub HC Bílý Újezd.</para>
+      <para>V Hrošce provozuje v areálu bývalého koupaliště své aktivity Klub netradičních sportů.
+         Patří mezi ně zejména Veteran Moped Show (od roku 1993), vyhlášené diskotéky na přírodním
+         parketu, koncerty a Hrošecká lávka (ukončena 15. ročníkem v roce 2007).</para>
+      <para>Sbory dobrovolných hasičů v Bílém Újezdě a Hrošce pořádají soutěže v hasičském sportu,
+         Mastečtí si svépomocí za přispění obce přebudovali klubovnu. Činnost vyvíjejí i myslivecká
+         sdružení Šesterák a Doubrava.</para>
+      <para>O srpnové pouti pořádá spolek chovatelů výstavu králíků, holubů a drůbeže s večerním
+         posezením. Školáci nacvičují besídky s programem pro všechny spoluobčany. Obecní úřad
+         každoročně organizuje vítání občánků a setkání důchodců.</para>
+      <para>V roce 1998 území obce postihly katastrofální povodně. Rozvodněný Zlatý potok pobořil v
+         Mastech a v areálu lomu několik domů, v Hrošce pak Ještětický potok zatopil prakticky
+         všechna obydlí podél břehu. Proto byla na Ještětickém potoce před Hroškou vystavěna suchá
+         hráz, která už ves nejednou ochránila před vylitím vody z břehů. Navíc byl při budování
+         učiněn významný archeologický nález.</para>
+      <para>Obec také investuje do oprav svých pamětihodností. Došlo ke generální opravě kostela,
+         zřízení osvětlení hřbitova, obnově krytiny zvonice nebo opravě kamenného schodiště.</para>
+      <para>Obec je součástí mikroregionů <link xlink:href="http://www.mikroregion-bela.cz/"
+            >Bělá</link> a <link xlink:href="http://www.dso-rychnovsko.cz/">Rychnovsko</link>. Roku
+         2006 obdržela v rámci soutěže Vesnice roku Zelenou stuhu za rozvoj obce.</para>
+   </chapter>
+   <chapter xml:id="obecni-urad">
+      <title>Obecní úřad</title>
+      <xi:include href="obecni-urad/nazev.xml"/>
+      <xi:include href="obecni-urad/duvod-a-zpusob-zalozeni.xml"/>
+      <xi:include href="obecni-urad/organizacni-struktura.xml"/>
+      <xi:include href="obecni-urad/kontaktni-spojeni.xml"/>
+      <xi:include href="obecni-urad/zpusob-financnich-uhrad.xml"/>
+      <xi:include href="obecni-urad/ic.xml"/>
+      <xi:include href="obecni-urad/dic.xml"/>
+      <xi:include href="obecni-urad/dokumenty.xml"/>
+      <xi:include href="obecni-urad/zadosti-o-informace.xml"/>
+      <xi:include href="obecni-urad/prijem-zadosti-a-dalsich-podani.xml"/>
+      <xi:include href="obecni-urad/opravne-prostredky.xml"/>
+      <xi:include href="obecni-urad/formulare.xml"/>
+      <xi:include href="obecni-urad/popisy-postupu.xml"/>
+      <xi:include href="obecni-urad/predpisy.xml"/>
+      <xi:include href="obecni-urad/uhrady-za-poskytovani-informaci.xml"/>
+      <xi:include href="obecni-urad/licencni-smlouvy.xml"/>
+      <section xml:id="vyrocni-zprava">
+         <title>Výroční zpráva</title>
+         <xi:include href="obecni-urad/vyrocni-zprava-2014.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2015.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2016.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2017.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2018.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2019.xml"/>
+         <xi:include href="obecni-urad/poskytnute-informace.xml"/>
+      </section>
+      <section xml:id="obecne-zavazne-vyhlasky">
+         <title>Obecně závazné vyhlášky</title>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2008-01.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2008-03.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2019-01.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2019-02.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2020-01.xml"/>
+      </section>
+      <section xml:id="usneseni-zastupitelstva-obce">
+         <title>Usnesení zastupitelstva obce</title>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2016.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2017.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2018.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2019.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2020.xml"/>
+      </section>
+      <xi:include href="obecni-urad/uredni-deska.xml"/>
+      <xi:include href="obecni-urad/uredni-deska-archiv.xml"/>
+      <section xml:id="verejne-pohrebiste">
+         <title>Veřejné pohřebiště</title>
+         <xi:include href="obecni-urad/rad-verejneho-pohrebiste.xml"/>
+         <xi:include href="obecni-urad/plan-verejneho-pohrebiste.xml"/>
+      </section>
+      <xi:include href="obecni-urad/zasady-poskytovani-pujcek-z-frb.xml"/>
+      <xi:include href="obecni-urad/registr-oznameni.xml"/>
+      <xi:include href="obecni-urad/poplatky-za-sluzby.xml"/>
+   </chapter>
+   <chapter xml:id="historie">
+      <title>Historie</title>
+      <xi:include href="historie/strucna-historie.xml"/>
+      <xi:include href="historie/puvod-nazvu.xml"/>
+      <xi:include href="historie/zdejsi-panstvi-a-majitele.xml"/>
+      <!-- 
+      <xi:include href="historie/vyznamne-udalosti.xml"/>
+      -->
+      <xi:include href="historie/vyznamne-osobnosti.xml"/>
+      <section xml:id="povesti">
+         <title>Pověsti</title>
+         <xi:include href="historie/povesti/tesar-pepek-veverka.xml"/>
+         <xi:include href="historie/povesti/o-tesari-adamovi.xml"/>
+         <xi:include href="historie/povesti/bily-ujezd.xml"/>
+         <xi:include href="historie/povesti/o-zlem-spravci-cermakovi.xml"/>
+         <xi:include href="historie/povesti/mastecka-tvrz.xml"/>
+      </section>
+      <xi:include href="historie/kroniky.xml"/>
+      <xi:include href="historie/dostupne-prameny.xml"/>
+   </chapter>
+   <chapter xml:id="pametihodnosti">
+      <title>Pamětihodnosti</title>
+      <xi:include href="historie/pametihodnosti/kostel-promeneni-pane.xml"/>
+      <xi:include href="historie/pametihodnosti/zvonice-u-kostela.xml"/>
+      <xi:include href="historie/pametihodnosti/zajezdni-hostinec.xml"/>
+      <xi:include href="historie/pametihodnosti/kaple-svateho-vaclava.xml"/>
+      <xi:include href="historie/pametihodnosti/kaple-navstiveni-panny-marie.xml"/>
+      <xi:include href="historie/pametihodnosti/pomniky-padlym.xml"/>
+      <xi:include href="historie/pametihodnosti/vyznamne-hroby.xml"/>
+      <xi:include href="historie/pametihodnosti/pamatne-krize.xml"/>
+   </chapter>
+   <chapter xml:id="zajimavosti">
+      <title>Zajímavosti</title>
+      <para>Již brzy - zaniklá slovanská osada u Hrošky, vysušené rybníky v okolí Hrošky a jiné
+         zajímavosti.</para>
+   </chapter>
+   <chapter xml:id="informace">
+      <title>Informace</title>
+      <xi:include href="informace/sanace-skalni-steny-hroska.xml"/>
+   </chapter>
+   <chapter xml:id="o-strankach">
+      <title>O stránkách</title>
+      <para>Již brzy - technické detaily a návod, jak se spolupodílet na tvorbě obsahu.</para>
+   </chapter>
+</book>

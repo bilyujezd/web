@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="uredni-deska">
+   <title>Úřední deska</title>
+   <?uredni-deska role="obsah"?>
+   <para><link linkend="uredni-deska-archiv">Archiv úřední desky</link></para>
+   <para>Využijte <link xlink:href="data/deska/deska-rss.xml">RSS kanál</link> a mějte tak neustále
+      přehled o obsahu této stránky.</para>
+   <para>Poslední aktualizace: <emphasis role="bold"
+         ><?uredni-deska role="datum-aktualizace"?></emphasis></para>
+</section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="predpisy">
+   <title>Předpisy</title>
+   <simplesect>
+      <title>Nejdůležitější používané předpisy</title>
+      <itemizedlist>
+         <listitem>
+            <para><link
+                  xlink:href="https://portal.gov.cz/app/zakony/zakonStruct.jsp?idBiblio=49296&amp;recShow=0"
+                  >Zákon č. 128/2000 Sb. o obcích</link></para>
+         </listitem>
+         <listitem>
+            <para><link
+                  xlink:href="https://portal.gov.cz/app/zakony/zakonStruct.jsp?idBiblio=47807&amp;recShow=0"
+                  >Zákon č. 106/1999 Sb. o svobodném přístupu k informacím</link></para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect>
+      <title>Vydané právní předpisy</title>
+      <itemizedlist>
+         <listitem>
+            <para><link linkend="obecne-zavazne-vyhlasky">Obecně závazné vyhlášky</link></para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+</section>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="organizacni-struktura">
+   <title>Organizační struktura</title>
+   <simplesect>
+      <title>Obecní úřad</title>
+      <informaltable>
+         <thead>
+            <tr>
+               <th>Funkce</th>
+               <th>Jméno</th>
+               <th>Bydliště</th>
+               <th>Mobil</th>
+               <th>Pevná linka</th>
+               <th>Email</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Starosta</td>
+               <td>Zdeněk Arnošt</td>
+               <td>Bílý Újezd</td>
+               <td>724 183 043</td>
+               <td>494 666 900</td>
+               <td>bily.ujezd@tiscali.cz</td>
+            </tr>
+            <tr>
+               <td>Místostarostka</td>
+               <td>Mgr. Simona Hejhalová</td>
+               <td>Bílý Újezd</td>
+               <td>776 765 667</td>
+               <td>494 509 161</td>
+               <td>simona.hejhalova@rychnov-city.cz</td>
+            </tr>
+            <tr>
+               <td>Účetní</td>
+               <td>Libuše Muchová</td>
+               <td>Bílý Újezd</td>
+               <td>724 727 589</td>
+               <td>494 666 111</td>
+               <td>oubu@wo.cz</td>
+            </tr>
+         </tbody>
+      </informaltable>
+   </simplesect>
+   <simplesect>
+      <title>Zastupitelstvo</title>
+      <informaltable>
+         <thead>
+            <tr>
+               <th>Jméno</th>
+               <th>Bydliště</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Václav Špaček</td>
+               <td>Masty</td>
+            </tr>
+            <tr>
+               <td>Vít Kovář</td>
+               <td>Bílý Újezd</td>
+            </tr>
+            <tr>
+               <td>Pavlína Horáčková</td>
+               <td>Hroška</td>
+            </tr>
+            <tr>
+               <td>Miloš Červinka</td>
+               <td>Hroška</td>
+            </tr>
+            <tr>
+               <td>Josef Hanuš</td>
+               <td>Roudné</td>
+            </tr>
+            <tr>
+               <td>Dagmar Židová Bc.</td>
+               <td>Bílý Újezd</td>
+            </tr>
+            <tr>
+               <td>Mgr. Michal Friček</td>
+               <td>Bílý Újezd</td>
+            </tr>
+            <tr>
+               <td>Jindřich Kubíček</td>
+               <td>Hroška</td>
+            </tr>
+            <tr>
+               <td>Jaroslav Hlavsa</td>
+               <td>Hroška</td>
+            </tr>
+         </tbody>
+      </informaltable>
+   </simplesect>
+   <simplesect>
+      <title>Finanční výbor</title>
+      <itemizedlist>
+         <listitem>
+            <para>předseda: Dagmar Židová Bc.</para>
+         </listitem>
+         <listitem>
+            <para>členové: Jindřich Kubíček, Pavlína Horáčková</para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect>
+      <title>Kontrolní výbor</title>
+      <itemizedlist>
+         <listitem>
+            <para>předseda: Jaroslav Hlavsa</para>
+         </listitem>
+         <listitem>
+            <para>členové: Josef Hanuš, Miloš Červinka</para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect>
+      <title>Povodňová komise</title>
+      <informaltable>
+         <thead>
+            <tr>
+               <th>Funkce</th>
+               <th>Jméno</th>
+               <th>Bydliště</th>
+               <th>Mobil</th>
+               <th>Pevná linka</th>
+               <th>Email</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Předseda </td>
+               <td>Zdeněk Arnošt</td>
+               <td>Bílý Újezd</td>
+               <td>724 183 043</td>
+               <td>494 666 900</td>
+               <td>bily.ujezd@tiscali.cz</td>
+            </tr>
+            <tr>
+               <td>Místopředseda</td>
+               <td>Radek Hlavsa</td>
+               <td>Hroška</td>
+               <td>737 503 362</td>
+               <td/>
+               <td/>
+            </tr>
+            <tr>
+               <td>Zapisovatelka</td>
+               <td>Libuše Muchová</td>
+               <td>Bílý Újezd</td>
+               <td>724 727 589</td>
+               <td>494 666 111</td>
+               <td>oubu@wo.cz</td>
+            </tr>
+            <tr>
+               <td>Člen</td>
+               <td>Pavek Horáček st.</td>
+               <td>Hroška</td>
+               <td>737 355 240</td>
+               <td/>
+               <td/>
+            </tr>
+            <tr>
+               <td>Člen</td>
+               <td>Václav Špaček</td>
+               <td>Masty</td>
+               <td>739 806 391</td>
+               <td/>
+               <td/>
+            </tr>
+         </tbody>
+      </informaltable>
+   </simplesect>
+   <simplesect>
+      <title>Údržba webu</title>
+      <itemizedlist>
+         <listitem>
+            <para>Jan Tošovský, jan.tosovsky.cz@gmail.com</para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+   <simplesect>
+      <title>Příspěvkové organizace</title>
+      <itemizedlist>
+         <listitem>
+            <para>Základní a mateřská škola Bílý Újezd, Bílý Újezd čp. 47, 518 01 Dobruška</para>
+         </listitem>
+      </itemizedlist>
+   </simplesect>
+</section>

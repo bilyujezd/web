@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" xml:id="poplatky-za-sluzby">
+   <title>Poplatky za služby</title>
+   <informaltable>
+      <tbody>
+         <tr>
+            <td>Ověření podpisu</td>
+            <td align="right">30 Kč</td>
+         </tr>
+         <tr>
+            <td>Ověření listiny (1 strana)</td>
+            <td align="right">30 Kč</td>
+         </tr>
+         <tr>
+            <td>Změna trvalého pobytu</td>
+            <td align="right">50 Kč</td>
+         </tr>
+         <tr>
+            <td>Roční poplatek za psa</td>
+            <td align="right">50 Kč</td>
+         </tr>
+         <tr>
+            <td>Roční poplatek za každého dalšího psa</td>
+            <td align="right">75 Kč</td>
+         </tr>
+         <tr>
+            <td>Užívání hrobového či urnového místa (10 let)</td>
+            <td align="right">700–1000 Kč</td>
+         </tr>
+         <tr>
+            <td>Vypůjčení žebříku pro místní občany</td>
+            <td align="right">50 Kč</td>
+         </tr>
+         <tr>
+            <td>Vypůjčení žebříku pro cizí občany</td>
+            <td align="right">100 Kč</td>
+         </tr>
+      </tbody>
+   </informaltable>
+   <para>Pro úhrady za poskytování informací dle zákona č. 106/1999 Sb. viz <link
+         linkend="uhrady-za-poskytovani-informaci">samostatný dokument</link>.</para>
+</section>
