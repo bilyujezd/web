@@ -1,305 +1,572 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
    version="5.0" xml:id="rad-verejneho-pohrebiste">
-   <title>Řád veřejného pohřebiště</title>
-   <para>Zastupitelstvo obce Bílý Újezd rozhodlo dne 26.9.2002 v souladu s ustanovením § 19 zákona
-      č. 256/2001 Sb. o pohřebnictví a o změně některých zákonů, ve znění zákona č.479/2001 Sb.
-      vydat Řád veřejného pohřebiště.</para>
+   <title>Řád veřejného pohřebiště obce Bílý Újezd</title>
+   <titleabbrev>Řád veřejného pohřebiště</titleabbrev>
+   <para>Obec Bílý Újezd jako provozovatel veřejného pohřebiště podle § 16 odst. 1 zák. č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů (dále jen zákon o pohřebnictví) vydává v souladu s ustanovením § 19 citovaného zákona Řád veřejného pohřebiště obce Bílý Újezd.</para>
+   <para>
+      <orderedlist>
+         <listitem>
+            <para>Zastupitelstvo obce Bílý Újezd ve smyslu § 84 odst. 4 zákona č. 128/2000 Sb. o obcích, ve znění pozdějších předpisů schválilo tento Řád veřejného pohřebiště obce Bílý Újezd dne 8. června 2021, pod číslem usnesení 14/2021 </para>
+         </listitem>
+         <listitem>
+            <para>Řád veřejného pohřebiště obec vydává po předchozím souhlasu krajského úřadu Královéhradeckého kraje ze dne 7. června 2021, vydaného pod č.j. KUKHK-20762/RG/2021</para>
+         </listitem>
+      </orderedlist>
+   </para>
    <simplesect>
       <title>Článek 1</title>
       <subtitle>Úvodní ustanovení</subtitle>
       <para>
          <orderedlist>
             <listitem>
-               <para>Řád upravuje provoz pohřebiště v Bílém Újezdě, číslo parcely 15 v k.ú. Bílý
-                  Újezd</para>
+               <para>Provozování pohřebiště je nedílnou součástí veřejné infrastruktury a službou ve veřejném zájmu v samostatné působnosti obce. </para>
             </listitem>
             <listitem>
-               <para>Provozovatelem i správcem pohřebiště je obec Bílý Újezd.</para>
+               <para>Provozovatelem a správcem veřejného pohřebiště je obec Bílý Újezd, IČ: 00274704, se sídlem: Bílý Újezd č.p. 42, 518 01 Dobruška, zastoupená starostou obce Bílý Újezd (dále jen provozovatel).</para>
             </listitem>
          </orderedlist>
       </para>
    </simplesect>
    <simplesect>
       <title>Článek 2</title>
-      <subtitle>Provozní doba pohřebiště</subtitle>
-      <para>Neomezeně</para>
-   </simplesect>
-   <simplesect>
-      <title>Článek 3</title>
-      <subtitle>Pořádek na pohřebišti</subtitle>
+      <subtitle>Působnost řádu pohřebiště</subtitle>
       <para>
          <orderedlist>
             <listitem>
-               <para>Návštěvníci pohřebiště a osoby, které zde provádějí práce, jsou povinni se
-                  chovat způsobem, odpovídajícím pietě místa.</para>
+               <para>Ustanovení tohoto Řádu se vztahuje na veřejné pohřebiště v Bílém Újezdu – v k.ú. Bílý Újezd u Dobrušky (dále jen ústřední pohřebiště), na parcele číslo: 15 jehož součástí jsou: <orderedlist numeration="upperroman">
+                     <listitem>
+                        <para>místa pro ukládání lidských pozůstatků do hrobů </para>
+                     </listitem>
+                     <listitem>
+                        <para>místa pro ukládání lidských pozůstatků do hrobek </para>
+                     </listitem>
+                     <listitem>
+                        <para>místa pro ukládání zpopelněných lidských ostatků v urnách </para>
+                     </listitem>
+                     <listitem>
+                        <para>společné hroby pro ukládání nezpopelněných a zpopelněných lidských ostatků</para>
+                     </listitem>
+                  </orderedlist></para>
             </listitem>
             <listitem>
-               <para>Není dovoleno zde kouřit, požívat alkoholické nápoje a jiné návykové látky,
-                  odkládat odpadky a jiné věci mimo místa k tomu určená, vodit nebo vpouštět na
-                  pohřebiště psy a jiná zvířata.</para>
+               <para>Vnější hranice tohoto pohřebiště jsou vymezeny oplocením/zdí/živým plotem.</para>
             </listitem>
             <listitem>
-               <para>Děti do 10 let mají přístup na pohřebiště pouze v doprovodu dospělé
-                  osoby.</para>
+               <para>Řád je závazný pro provozovatele – obec a dále pro subjekty, zajišťující pohřební služby, pro obstaravatele pohřebních a jiných úkonů, nájemce hrobových a urnových míst, objednatele a zhotovitele služeb, návštěvníky pohřebiště včetně osob, které zde s prokazatelným souhlasem provozovatele pohřebiště nebo nájemce provádějí práce a pro ostatní veřejnost. </para>
+            </listitem>
+         </orderedlist>
+      </para>
+   </simplesect>
+   <simplesect>
+      <title>Článek 3</title>
+      <subtitle>Rozsah poskytovaných služeb</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Na pohřebišti obce Bílý Újezd jsou poskytovány zejména tyto základní služby: <orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>pronájem hrobového místa <orderedlist numeration="upperroman">
+                              <listitem>
+                                 <para>pro hroby, hrobky </para>
+                              </listitem>
+                              <listitem>
+                                 <para>pro uložení lidských ostatků v urnách </para>
+                              </listitem>
+                           </orderedlist></para>
+                     </listitem>
+                     <listitem>
+                        <para>správa a údržba pohřebiště včetně inženýrských sítí, zeleně, oplocení, vodovodu a mobiliáře </para>
+                     </listitem>
+                     <listitem>
+                        <para>údržba páteřních komunikací a zpevněných ploch (v létě i v zimě) </para>
+                     </listitem>
+                     <listitem>
+                        <para>vedení předepsané evidence související s provozováním pohřebiště </para>
+                     </listitem>
+                     <listitem>
+                        <para>zajišťování sběru, třídění, odvozu a likvidace odpadů včetně biologicky nebezpečných odpadů </para>
+                     </listitem>
+                     <listitem>
+                        <para>spravování a udržování objektů na pohřebišti </para>
+                     </listitem>
+                     <listitem>
+                        <para>vykonávání dozoru nad dodržováním tohoto řádu </para>
+                     </listitem>
+                     <listitem>
+                        <para>údržba a úprava společných hrobů a hrobky</para>
+                     </listitem>
+                     <listitem>
+                        <para>zveřejňování informací v místě na daném pohřebišti obvyklém pro potřeby veřejnosti </para>
+                     </listitem>
+                  </orderedlist></para>
             </listitem>
             <listitem>
-               <para>Motorová a jiná vozidla (jízdní kola) s výjimkou invalidních vozíků nesmí na
-                  hřbitov vjíždět.</para>
+               <para>Na pohřebišti obce Bílý Újezd nejsou poskytovány doplňkové služby na žádost nájemce nebo vlastníka hrobového zařízení či hrobky a tyto služby si každý zajišťuje sám za podmínek dle článku 9 tohoto řádu a za předchozího souhlasu provozovatele. <orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>manipulace se zetlelými, nezetlelými i zpopelněnými lidskými ostatky v rámci pohřebiště </para>
+                     </listitem>
+                     <listitem>
+                        <para>výkopové práce související s pohřbením nebo exhumací prostřednictvím třetí strany</para>
+                     </listitem>
+                     <listitem>
+                        <para>pohřbívání a provádění exhumací</para>
+                     </listitem>
+                     <listitem>
+                        <para>ukládání zpopelněných lidských ostatků </para>
+                     </listitem>
+                  </orderedlist></para>
             </listitem>
             <listitem>
-               <para>Z hygienických důvodů není dovoleno v areálech pohřebišť pít vodu z vodovodních
-                  výpustí. Tato voda je určena k provozním účelům správce pohřebiště a k zalévání
-                  zeleně na pronajatých hrobových místech. Je zakázáno odnášet vodu v náhradních
-                  obalech z areálu pohřebiště.</para>
+               <para>V souladu se stanoviskem okresního hygienika č.j.3010/219.1/2002 je na základě zákona o pohřebnictví tímto Řádem pro uložení lidských ostatků do hrobů stanovena na ústředním pohřebišti tlecí doba v délce minimálně 12 let.</para>
             </listitem>
             <listitem>
-               <para>Odpady je třeba odkládat na určená místa (kontejner) a okolí udržovat v
-                  pořádku.</para>
+               <para>Všichni zemřelí nezávisle na místě úmrtí mohou být na tomto veřejném pohřebišti pohřbeni, ale pouze se souhlasem provozovatele. Den před přijetím lidských pozůstatků je potřeba předložit provozovateli kopii Listu o prohlídce zemřelého, kterou uloží minimálně po tlecí dobu v příloze hřbitovní knihy. </para>
             </listitem>
          </orderedlist>
       </para>
    </simplesect>
    <simplesect>
       <title>Článek 4</title>
-      <subtitle>Rozsah služeb poskytovaných na pohřebišti</subtitle>
-      <para>Činnosti spojené s provozováním pohřebiště, které vyžadují zákonem předepsaná oprávnění<itemizedlist>
+      <subtitle>Doba zpřístupnění pohřebiště, povinnosti návštěvníků, způsob a pravidla užívání zařízení</subtitle>
+      <para>
+         <orderedlist>
             <listitem>
-               <para>výkopové práce související s pohřbením</para>
+               <para>Pohřebiště je místo veřejně přístupné neomezeně</para>
             </listitem>
             <listitem>
-               <para>pohřbívání, ukládání zpopelněných lidských pozůstatků</para>
-            </listitem>
-         </itemizedlist>provozovatel zajišťuje prostřednictvím oprávněné osoby - pohřební služby
-         (Dobruška, RK).</para>
-      <para>Činnosti jako<itemizedlist>
-            <listitem>
-               <para>pronájem hrobových míst</para>
+               <para>Provozovatel pohřebiště může z oprávněných důvodů přístup veřejnosti na pohřebiště nebo jeho část dočasně omezit nebo zakázat, např. v době provádění terénních úprav, manipulování se zetlelými, nezetlelými i zpopelněnými lidskými ostatky v rámci pohřebiště, exhumací, za sněhu, náledí apod., pokud nelze zajistit bezpečnost návštěvníků.</para>
             </listitem>
             <listitem>
-               <para>vedení související evidence</para>
+               <para>Dětem do 10 let věku je dovolen vstup na pohřebiště pouze v doprovodu dospělých osob.</para>
             </listitem>
             <listitem>
-               <para>správu a údržbu pohřebiště včetně komunikací a okolní zeleně</para>
+               <para>Osobám pod vlivem návykových a psychotropních látek je vstup na pohřebiště zakázán, rovněž je zakázáno požívání alkoholických nápojů na pohřebišti.</para>
             </listitem>
-         </itemizedlist> zajišťuje provozovatel sám.</para>
+            <listitem>
+               <para>Motorová vozidla mohou na pohřebiště vjíždět a zdržovat se jen s prokazatelným souhlasem provozovatele za jím stanovených podmínek. Jde zejména o dodržování vyhrazených jízdních tras, maximální povolené rychlosti apod. </para>
+            </listitem>
+            <listitem>
+               <para>Na pohřebišti není dovolena jízda i jinými vozidly s výjimkou vozíků invalidních občanů. Chodci mají vždy přednost před vozidly. Přednost v jízdě má vozidlo, které přijíždí zprava. Pojízdné a zpevněné plochy na pohřebištích mohou být užívány k odstavení vozidla na nezbytně nutnou dobu pouze tak, aby tím nebyl omezován pohyb jiných vozidel. Na pohřebištích je zakázáno provádět opravy, údržbu a mytí vozidel. </para>
+            </listitem>
+            <listitem>
+               <para>Na pohřebišti je rovněž zakázáno pohybovat se na kolech, kolečkových bruslích, koloběžkách, skateboardech apod. </para>
+            </listitem>
+            <listitem>
+               <para>Návštěvníci jsou povinni chovat se na pohřebišti důstojně a pietně s ohledem na toto místo, řídit se Řádem pohřebiště. Zejména není návštěvníkům pohřebišť dovoleno se zde chovat hlučně, používat audio a video přijímače, kouřit, požívat alkoholické nápoje a jiné omamné látky, odhazovat odpadky mimo odpadové nádoby, vodit do areálu psy (mimo psů slepeckých a asistenčních), kočky a jiná zvířata nebo je nechat volně pobíhat a používat prostory pohřebiště i jeho vybavení k jiným účelům, než k jakým jsou určeny. </para>
+            </listitem>
+            <listitem>
+               <para>Z hygienických důvodů není dovoleno na pohřebišti pít vodu z vodovodních výpustí a studní. Rovněž není dovoleno tuto vodu odnášet v náhradních obalech mimo pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Svítidla mohou návštěvníci a nájemci na pohřebišti rozsvěcovat jen pokud jsou vhodným způsobem zabezpečena proti vzniku požáru. Provozovatel může v odůvodněných případech používání svítidel na pohřebišti omezit nebo i zakázat. </para>
+            </listitem>
+            <listitem>
+               <para>Ukládání nádob, nářadí, jiných předmětů, včetně dílů hrobového zařízení na zelené pásy a místa kolem hrobových míst není dovoleno. Nádoby na odpadky na pohřebišti slouží jen pro ukládání odpadu z pohřebiště – mimo odpadu stavebního a nebezpečného. Pokud je na pohřebišti zavedeno třídění odpadu, je nutno toto opatření respektovat. </para>
+            </listitem>
+            <listitem>
+               <para>Návštěvníkům je zakázáno provádět jakékoli zásahy do vzrostlé zeleně na pohřebišti. </para>
+            </listitem>
+            <listitem>
+               <para>Na pohřebišti je povoleno provádět práce pouze v takovém rozsahu a způsobem, který stanoví tento Řád a provozovatel. </para>
+            </listitem>
+            <listitem>
+               <para>Na celém pohřebišti není dovoleno umístění reklam, týká se to i reklam umístěných na stromech, zařízeních pohřebiště, hrobových míst a hrobových zařízeních. </para>
+            </listitem>
+            <listitem>
+               <para>Na pohřebišti rovněž není dovoleno pořádat presentační akce soukromých subjektů zaměřené na výkon následné služby pro nájemce či prodej jimi nabízeného zboží. Všechny podnikatelské subjekty, které chtějí vykonávat jakékoli práce či služby pro nájemce, mají oznamovací povinnost k této činnosti vůči provozovateli pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Všechny osoby, vykonávající činnosti, související se zajištěním řádného provozu pohřebiště, jsou povinny tak činit v souladu se zákonem o pohřebnictví a ostatními právními normami, upravujícími takovou činnost, dodržovat tento Řád a to vždy s vědomím provozovatele pohřebiště, nebo s jeho předchozím souhlasem, je-li ho dle tohoto řádu potřeba. </para>
+            </listitem>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 5</title>
-      <subtitle>Povinnosti a činnost správce pohřebiště v souvislosti s nájmem hrobových
-         míst</subtitle>
-      <para>Správce pohřebiště je povinen:<orderedlist>
+      <subtitle>Povinnosti provozovatele pohřebiště</subtitle>
+      <para>
+         <orderedlist>
             <listitem>
-               <para>předat nájemci hrobového místa číselně označené hrobové místo a umožnit mu
-                  zřízení hrobu nebo hrobky za podmínek stanovených v článku 9</para>
-            </listitem>
-            <listitem>
-               <para>umožnit nájemci užívání jeho hrobového místa a zařízení pohřebiště, zajistit
-                  přístup k hrobovému místu a zdržet se jakýchkoliv zásahů do hrobového zařízení s
-                  výjimkou případů, kdy je nezbytné zajistit bezpečný a plynulý provoz pohřebiště,
-                  nebo kdy je třeba provést pohřbení do sousedního hrobu, kamenosochařské práce nebo
-                  úpravu pohřebiště. V takovém případě je omezení přístupu ke hrobovému místu možné
-                  pouze po nezbytně nutnou dobu.</para>
-            </listitem>
-         </orderedlist></para>
-      <para>Dojde-li k zásahu do hrobového místa nebo hrobového zařízení vinou správce pohřebiště a
-         vznikne-li škoda, je správce pohřebiště povinen hrobové místo uvést do původního
-         stavu.</para>
-      <para>Hrobová místa správce zřizuje tak, aby tvořily řadovou zástavbu a zadní i přední strany
-         hrobových míst dodržovaly jednu přímku.</para>
-   </simplesect>
-   <simplesect>
-      <title>Článek 6</title>
-      <subtitle>Povinnosti nájemce hrobového místa</subtitle>
-      <para>Nájemce hrobového místa je povinen při užívání hrobového místa postupovat takto:<orderedlist>
-            <listitem>
-               <para>Hrobové zařízení zřídit v souladu s ustanovením článku 9. Před zahájením prací
-                  si vyžádat písemný souhlas správce pohřebiště a řídit se při provádění prací jeho
-                  pokyny.</para>
-            </listitem>
-            <listitem>
-               <para>Provádět údržbu pronajatého hrobového místa a hrobového zařízení v následujícím
-                  rozsahu následujícím způsobem:<orderedlist numeration="loweralpha">
+               <para>Provozovatel pohřebiště je povinen zejména:<orderedlist numeration="loweralpha">
                      <listitem>
-                        <para>Nejpozději do 3 měsíců od pohřbení do hrobu zajistit úpravu pohřbívací
-                           plochy hrobového místa.</para>
+                        <para>Všem osobám - zájemcům o nájem stanovit stejné podmínky pro sjednání nájmu dle typu hrobového místa. </para>
                      </listitem>
                      <listitem>
-                        <para>Zajistit, aby plocha hrobového místa nezarůstala nevhodným porostem
-                           narušujícím estetický vzhled pohřebiště a průběžně zajišťovat údržbu
-                           hrobového místa a hrobového zařízení na vlastní náklady tak, aby jejich
-                           stav nebránil užívání hrobových míst ostatních nájemců a dalších
-                           osob.</para>
+                        <para>Sepisovat nájemní smlouvy a vést evidenci související s provozováním pohřebiště v rozsahu dle § 21 zákona o pohřebnictví formou vázané knihy a v elektronické podobě.</para>
                      </listitem>
                      <listitem>
-                        <para>Odstranit včas znehodnocené květinové a jiné dary, odpad z vyhořelých
-                           svíček a další předměty, které narušují estetický vzhled
-                           pohřebiště.</para>
+                        <para>Zajišťovat údržbu veřejné zeleně na pohřebišti, provádět úklid cest a chodníků, běžnou údržbu obvodové zdi, společných zařízení a inženýrských sítí.</para>
                      </listitem>
                      <listitem>
-                        <para>Neprodleně zajistit opravy hrobového zařízení, pokud je narušena jeho
-                           stabilita a ohrožuje tak zdraví, životy nebo majetek dalších osob. Pokud
-                           tak nájemce neučiní, je správce pohřebiště oprávněn zajistit bezpečnost
-                           na náklady a riziko nájemce hrobového místa.</para>
+                        <para>Zajišťovat sběr, třídění, uskladňování a likvidaci všech odpadů z pohřebiště včetně odpadů biologicky nebezpečných.</para>
                      </listitem>
                      <listitem>
-                        <para>Zajistit na vlastní náklady, nejpozději do dne ukončení nájmu
-                           hrobového místa, odstranění hrobového zařízení včetně uren, jinak s nimi
-                           bude naloženo podle § 25 odst. 9 zákona.</para>
+                        <para>Udržovat aktuální plán pohřebiště s vedením evidence volných hrobových míst. Zájemcům o uzavření nájemní smlouvy je povinen na jejich žádost nechat nahlédnout do plánu pohřebiště a evidence volných míst. </para>
                      </listitem>
                      <listitem>
-                        <para>Oznamovat správci pohřebiště veškeré změny údajů, potřebných pro
-                           vedení evidence pohřebiště v souladu s § 21 zákona.</para>
+                        <para>V případě zákazu pohřbívání bezodkladně písemně informovat nájemce hrobových míst, pokud je mu známa jejich adresa a současně informovat veřejnost o tomto zákazu v místě na daném pohřebišti obvyklém. </para>
                      </listitem>
                      <listitem>
-                        <para>Uložení lidských pozůstatků a lidských ostatků nebo jakékoli další
-                           nakládání s nimi provádět jen způsobem, který je v souladu s článkem
-                           7.</para>
+                        <para>V případě rušení pohřebiště provozovatel postupuje dle ustanovení § 24 zákona o pohřebnictví a je bezodkladně povinen ve směru k zúčastněným osobám a veřejnosti splnit veškerou informační povinnost. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Připravit k pronájmu nová místa pro hroby, hrobky, urnová místa apod. (tzn. vytýčit – označit schématickým plánkem, číselně označit, vyčistit) tak, aby se minimalizoval negativní dopad na již existující hrobová místa. Pronajímat tato místa a provádět obnovu nájmu zájemcům za podmínek, stanovených zákonem o pohřebnictví a Řádem tak, aby vznikly ucelené řady, oddíly, či skupiny hrobových míst stejného charakteru a rozměrů. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Zabezpečovat pořádek a čistotu na pohřebištích včetně údržby veřejných travnatých ploch, opuštěných hrobových míst, společných hrobů a vyhrazených ploch. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Umožnit oprávněným osobám manipulaci se zetlelými, nezetlelými i zpopelněnými lidskými ostatky v rámci pohřebiště nebo provedení exhumace za podmínek stanovených zákonem o pohřebnictví a tímto Řádem. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Písemně upozornit nájemce na skončení sjednané doby nájmu nejméně 90 dnů před jejím skončením. Není-li mu trvalý pobyt, nebo sídlo nájemce znám, uveřejní tuto informaci v místě na daném pohřebišti obvyklém, nejméně 60 dnů před skončením sjednané doby nájmu. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Během doby trvání nájmu zajistit k hrobovému místu přístup a zdržet se jakýchkoli zásahů do hrobového místa, s výjimkou případů, kdy je nezbytné bezodkladně zajistit bezpečný provoz pohřebiště, mimo kopání hrobů nebo opravy hrobových zařízení a hrobek v sousedství, avšak jen na dobu nezbytně nutnou. </para>
                      </listitem>
                   </orderedlist></para>
             </listitem>
-         </orderedlist></para>
+         </orderedlist>
+      </para>
+   </simplesect>
+   <simplesect>
+      <title>Článek 6</title>
+      <subtitle>Užívání hrobového místa</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Žádný zájemce o nájem místa na pohřebišti nemá nárok na okupaci opuštěného hrobového místa, nebo na jiné, individuální umístění hrobu a hrobového zařízení v rámci opuštěného hrobového místa. </para>
+            </listitem>
+            <listitem>
+               <para>Nájem hrobového místa vzniká na základě smlouvy o nájmu hrobového místa uzavřené mezi pronajímatelem – provozovatelem pohřebiště a mezi nájemcem (dále jen smlouva o nájmu). Smlouva o nájmu musí mít písemnou formu a musí obsahovat určení druhu hrobového místa, jeho rozměry, výši nájemného a služeb spojených s nájmem.</para>
+            </listitem>
+            <listitem>
+               <para>K uzavření smlouvy o nájmu hrobového místa je zájemce o nájem povinen poskytnout pronajímateli údaje potřebné k vedení evidence, jako údaje o nájemci a hrobovém příslušenství.</para>
+            </listitem>
+            <listitem>
+               <para>Změny výše uvedených údajů a skutečností je nájemce povinen bez zbytečného odkladu oznámit provozovateli pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>V případě, že se jedná o nájem hrobového místa v podobě hrobu, musí být doba, na niž se smlouva o nájmu uzavírá, stanovena tak, aby od pohřbení mohla být dodržena tlecí doba stanovená pro pohřebiště v čl. 3. </para>
+            </listitem>
+            <listitem>
+               <para>Nájem hrobových míst se sjednává zpravidla na dobu: <itemizedlist>
+                     <listitem>
+                        <para>pro hrob, pro hrobku novou, pro urnová místa na 12 let</para>
+                     </listitem>
+                  </itemizedlist></para>
+            </listitem>
+            <listitem>
+               <para>Provozovatel pohřebiště omezil maximální délku nájmu místa na pohřebišti na dobu 30 let a minimální délku nájmu místa na 10 let. Osvobození od úhrady nájmu jakož i slevy z cen může učinit pouze provozovatel pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Platným uzavřením nájemní smlouvy k hrobovému místu na pohřebišti vzniká nájemci právo zřídit na místě hrob, hrobku, urnové místo, včetně vybudování náhrobku a hrobového zařízení (rám, krycí desky apod.) a vysázet květiny, to vše v souladu s obsahem nájemní smlouvy, tímto Řádem a pokyny provozovatele pohřebiště, s následnou možností uložit v tomto místě lidské pozůstatky a lidské ostatky. </para>
+            </listitem>
+            <listitem>
+               <para>Nájemní právo k hrobovému místu lze převést na třetí osobu pouze prostřednictvím provozovatele novou smlouvou. Současně s převodem nájemního práva je dosavadní nájemce a vlastník hrobky, náhrobku nebo hrobového zařízení povinen předložit provozovateli pohřebiště smlouvu o převodu uvedených věcí do vlastnictví jiné osoby, nezůstávají-li i nadále v jeho vlastnictví. </para>
+            </listitem>
+            <listitem>
+               <para>Uložení konstrukce pro ukládání vykopané zeminy při výkopu vedlejšího hrobu a nutné kamenické práce na přilehlém hrobovém místě, to vše v odůvodněných případech a na nezbytně nutnou dobu, není omezením práva nájemce ve smyslu § 25 zákona o pohřebnictví. Dojde-li k zásahu do hrobového místa, nebo zařízení a vznikne-li tímto škoda, je povinen hrobové místo uvést do původního stavu, nebo škodu nahradit ten, kdo škodu způsobil. To platí i v případě, že škůdce ke své činnosti přibral třetí osobu. </para>
+            </listitem>
+            <listitem>
+               <para>Nájemce je povinen vlastním nákladem zajišťovat údržbu hrobového místa a hrobového zařízení v rozsahu stanoveném smlouvou o nájmu a v následujícím rozsahu a způsobem: <orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>nejpozději do 3 měsíců od pohřbení do hrobu zajistit úpravu pohřbívací plochy hrobového místa, </para>
+                     </listitem>
+                     <listitem>
+                        <para>zajistit, aby plocha hrobového místa nezarůstala nevhodným porostem, který by narušoval svým vzhledem okolí, průběžně zajišťovat údržbu hrobového místa tak, aby travní porost nedosáhl květenství (vymetání trav), jakož i průběžně zajišťovat údržbu hrobového zařízení na vlastní náklady tak, aby jejich stav nebránil užívání hrobových míst ostatních nájemců a dalších osob, </para>
+                     </listitem>
+                     <listitem>
+                        <para>odstranit včas znehodnocené květinové a jiné dary, odpad z vyhořelých svíček a další předměty, které narušují estetický vzhled pohřebiště. Neodstraní-li tyto předměty nájemce hrobového místa, je provozovatel pohřebiště oprávněn tak učinit sám. </para>
+                     </listitem>
+                  </orderedlist></para>
+            </listitem>
+            <listitem>
+               <para>Nájemce je povinen neprodleně zajistit opravu hrobového zařízení pokud je narušena jeho stabilita a ohrožuje tím zdraví, životy, nebo majetek dalších osob. Pokud tak nájemce neučiní po uplynutí lhůty uvedené ve výzvě provozovatele pohřebiště oprávněn zajistit bezpečnost na náklady a riziko nájemce hrobového místa. </para>
+            </listitem>
+            <listitem>
+               <para>Je zakázáno odkládat díly hrobového zařízení na sousední hrobová místa, nebo je opírat o sousední hrobová zařízení. </para>
+            </listitem>
+            <listitem>
+               <para>Při užívání hrobového místa je nájemci zakázáno manipulovat s lidskými ostatky. Se zpopelněnými lidskými ostatky může nájemce manipulovat a ukládat je na pohřebišti pouze s vědomím provozovatele. </para>
+            </listitem>
+            <listitem>
+               <para>Nájemce je povinen strpět číselné označení hrobových míst provedené provozovatelem. Nájemce je povinen strpět na hrobovém místě vhodně umístěný odkaz na uveřejněnou informaci ve vývěsce týkající se upozornění nájemce na skončení doby nájmu. </para>
+            </listitem>
+            <listitem>
+               <para>Pokud se hrobka nebo hrobové zařízení staly opuštěnou po účinnosti zákona č. 89/2012 Sb., občanský zákoník (tj. od 1. ledna 2014) a jsou zároveň stavbou, bude od 1. ledna 2024 provozovatelem pohřebiště provedena nabídka příslušnému Úřadu pro zastupování státu ve věcech majetkových. </para>
+            </listitem>
+            <listitem>
+               <para>Pokud byla hrobka opuštěna před účinností zákona č. 89/2012 Sb., občanský zákoník (tj. před 1. lednem 2014), bude zaevidována do majetku obce, která je vlastníkem pozemku (viz ustanovení § 3056 zákona č. 89/2012 Sb., občanský zákoník) nebo obce, která je provozovatelem pohřebiště (viz ustanovení § 996 zákona č. 89/2012 Sb., občanský zákoník). Oznámení o novém vlastníkovi hrobky, která se tímto postupem stala hrobkou obecní, se zveřejní vhodným způsobem na veřejném pohřebišti (např. ve vývěsní skřínce). U opuštěného hrobového zařízení probíhá postup shodně. </para>
+            </listitem>
+            <listitem>
+               <para>Byl-li nájemce hrobového místa prokazatelně vyzván před ukončením nájmu k vyklizení hrobu od movitých i nemovitých věcí, v souladu s § 2225 občanského zákoníku při skončení nájmu předá nájemce hrobové místo vyklizené do 30 dnů od skončení nájmu. Při odevzdání hrobového zařízení nebo hrobky si nájemce vezme vše, kromě uložených lidských ostatků, ať zpopelněných nebo nezpopelněných, protože v souladu s § 493 občanského zákoníku lidské ostatky nejsou věcí. </para>
+            </listitem>
+            <listitem>
+               <para>Po zániku nájmu se lidské ostatky nezpopelněné i zpopelněné ponechají na dosavadním místě. Při nájmu hrobového místa novým nájemcem budou tyto lidské ostatky v průběhu nového pohřbení uloženy pod úroveň dna hrobu. Není-li možné využít úroveň dna hrobu, uloží se lidské ostatky do společného hrobu téhož pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Některá hrobová zařízení nebo hrobky lze provozovateli pohřebiště darovat písemnou darovací smlouvou. </para>
+            </listitem>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 7</title>
-      <subtitle>Ukládání lidských pozůstatků a zpopelněných lidských ostatků a jejich
-         exhumace</subtitle>
-      <para>Lidské pozůstatky může do hrobů a hrobek ukládat pouze správce pohřebiště
-         prostřednictvím oprávněné osoby - pohřebního ústavu. Obdobně to platí i o provádění prací
-         spojených s exhumací. Zpopelněné lidské ostatky je možno uložit na pohřebišti vždy jen se
-         souhlasem správce pohřebiště a způsobem, který stanoví.</para>
-      <para>Přímou manipulaci s lidskými ostatky, uloženými v hrobkách, může správce pohřebiště
-         provádět pouze se souhlasem okresního hygienika.</para>
+      <subtitle>Podmínky zřízení hrobky, náhrobku, hrobového zařízení</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Ke zhotovení hrobky, náhrobku, hrobového zařízení na pohřebišti, nebo úpravě již existujících je oprávněn pouze vlastník nebo jím zmocněná osoba po prokazatelném předchozím souhlasu nájemce hrobového místa, neprovádí-li tyto práce sám. Při provádění prací je nutné se řídit pokyny provozovatele pohřebiště za jím stanovených podmínek a podmínek tohoto Řádu.</para>
+            </listitem>
+            <listitem>
+               <para>Podmínky ke zřízení hrobového zařízení mimo hrobky určuje provozovatel v rozsahu:<orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>Rozměry nově vzniklých nebo obnovených hrobových míst, hrobek a urnových míst jsou stanoveny takto: <itemizedlist>
+                              <listitem>
+                                 <para>místo pro urny: velikost pronajatého hrobového místa 1x1,5 m</para>
+                              </listitem>
+                              <listitem>
+                                 <para>místo pro jednohrob: velikost pronajatého hrobového místa 1x2 m</para>
+                              </listitem>
+                              <listitem>
+                                 <para>místo pro hrobku: velikost pronajatého hrobového místa 2x2 m</para>
+                              </listitem>
+                           </itemizedlist></para>
+                     </listitem>
+                     <listitem>
+                        <para>Dále určuje tvar hrobového zařízení, případně druh použitého materiálu, minimální hloubku základů, odstupňování hrobového zařízení ve svahovitém terénu, šířku uliček mezi hrobovým zařízením, způsob uložení zeminy a odpadu při zřizování hrobového zařízení, jeho opravách a likvidaci. Jednotlivé díly hrobového zařízení musí být mezi sebou pevně kotveny. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Základy musí být provedeny do nezamrzající hloubky 80 cm, dimenzovány se zřetelem na únosnost půdy a nesmí zasahovat do pohřbívací plochy. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Základy musí odpovídat půdorysným rozměrům díla a podpovrchové hloubce základové spáry, která činí minimálně 80 cm. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Základy památníků, náhrobků nebo stél musí být zhotoveny z dostatečně únosného materiálu, odolného proti působení povětrnosti např. z prostého betonu či železobetonu, kamenného, popř. cihelného zdiva. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Přední a zadní rámy hrobu nebo hrobky musí být v jedné přímce s rámy sousedních hrobů. </para>
+                     </listitem>
+                     <listitem>
+                        <para>Při stavbě na svahovitém terénu musí být hrobové zařízení stejnoměrně odstupňováno. </para>
+                     </listitem>
+                  </orderedlist>
+               </para>
+            </listitem>
+            <listitem>
+               <para>Při stavbě hrobky je navíc <orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>nutné posoudit okolí plánované stavby (vliv na výsadbu, okolní komunikace, přístup k sousedním hrobovým místům) </para>
+                     </listitem>
+                     <listitem>
+                        <para>vytvořit zadání pro projektovou dokumentaci ke stavbě hrobky (např. tvar hrobky a odvětrávání, typ terénu a půdy, prostoru hrobky pro požadovaný počet rakví, výkopu pro požadovaný počet rakví) </para>
+                     </listitem>
+                     <listitem>
+                        <para>navrhnout materiály a hlavní konstrukční prvky včetně požadavků pro osazení hrobky hrobovým zařízením kamenickou firmou (základové pasy, beton, výztuže, betonové tvárnice) na základě předloženého statického výpočtu </para>
+                     </listitem>
+                     <listitem>
+                        <para>zhotovit jednoduchý rozpočet stavby (ceny stavebních materiálů a stavebních prací, přesunu hmot) </para>
+                     </listitem>
+                     <listitem>
+                        <para>provést uložení přebytečné zeminy (zajištění oddělení případných lidských ostatků, naložení, odvoz a uložení zeminy na skládku, dodržování hygienických předpisů a opatření) </para>
+                     </listitem>
+                     <listitem>
+                        <para>zhotovit základové pasy včetně dodržení technologických postupů a parametrů pro zvolený materiál stavby, zhotovit stěny, vložit svislé i vodorovné výztuže, zhotovit otvory pro patra, zalít betonem a zhotovit odvodnění </para>
+                     </listitem>
+                     <listitem>
+                        <para>ukončit stavbu (betonový věnec, popř. zhotovení vnitřního zakrytí stropnicemi a následná izolace proti povrchové vodě) </para>
+                     </listitem>
+                     <listitem>
+                        <para>dodržet minimální světlost otvoru pro spuštění rakve s možností opakovaného otevření bez nutnosti demontáže hrobového zařízení, obsypat stěny hrobky, upravit okolní terén </para>
+                     </listitem>
+                     <listitem>
+                        <para>protokolárně předat stavbu včetně souhlasu provozovatele pohřebiště tuto stavbu užívat.</para>
+                     </listitem>
+                  </orderedlist></para>
+            </listitem>
+            <listitem>
+               <para>Při provádění prací směřujících ke zhotovení, údržbě, opravám, nebo odstranění věcí na hrobovém místě je vždy třeba předchozího prokazatelného souhlasu nájemce, neprovádí-li tyto práce sám, přičemž je ten, kdo tyto práce provádí povinen činit tak dle pokynů provozovatele pohřebiště, nájemní smlouvy a tohoto Řádu.</para>
+            </listitem>
+            <listitem>
+               <para>V případě, že je místo na pohřebišti určeno ke zřízení hrobky, je nájemce oprávněn zřídit hrobku způsobem, v rozsahu a za podmínek stanovených souhlasem provozovatele ke zřízení hrobky, který je jako příloha nedílnou součástí nájemní smlouvy k předmětnému místu. </para>
+            </listitem>
+            <listitem>
+               <para>V průběhu zhotovování, údržby, oprav, nebo odstraňování hrobky, hrobového zařízení na pohřebišti odpovídá nájemce hrobového místa za udržování pořádku, za skladování potřebného materiálu na místech a způsobem určeným provozovatelem pohřebiště. Odstraňovaný stavební materiál, náhrobky, či jejich části, stejně tak i vykopanou zeminu je nájemce povinen nejpozději před přerušením práce téhož dne odvézt na určené místo skládky a případně uložit do příslušného kontejneru. Při těchto pracích nesmí být cesty a uličky na pohřebišti užívány k jinému účelu než ke komunikačním a nesmí být jejich průchodnost omezována. </para>
+            </listitem>
+            <listitem>
+               <para>Po skončení uvedených prací je nájemce povinen na svůj náklad uvést okolí příslušného hrobového místa a místa, která při práci znečistil, do původního stavu nejpozději do 48 hodin. Ukončení prací je nájemce povinen ohlásit provozovateli pohřebiště a je povinen uhradit náklady spojené s odvozem a likvidací odpadu, včetně odpadu biologicky nebezpečného, vzniklého při pracích na hrobovém místě, pokud tak neučinil na vlastní náklad sám. Spolu s tím nahlásí změny hrobového zařízení, zakládající povinnost změnit, či doplnit předepsanou evidenci. Totéž platí při likvidaci hrobového zařízení včetně základů a stavby hrobky. </para>
+            </listitem>
+            <listitem>
+               <para>Na hrobovém místě lze vysadit strom nebo keř pouze s předchozím písemným povolením provozovatele. Provozovatel může nájemci přikázat odstranění vysazené dřeviny bez jeho souhlasu, případně odstranit takovou výsadbu na náklad nájemce hrobového místa. </para>
+            </listitem>
+            <listitem>
+               <para>Vlastník hrobového zařízení je oprávněn odstranit hrobové zařízení z pohřebiště po předchozím projednání s provozovatelem a nájemcem hrobového místa. </para>
+            </listitem>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 8</title>
-      <subtitle>Tlecí doba</subtitle>
-      <para>Tlecí doba, stanovená pro ukládání lidských pozůstatků do hrobů, činí 12 let.</para>
+      <subtitle>Ukládání lidských pozůstatků a exhumace lidských ostatků</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Otevřít hrob nebo hrobku na pohřebišti, ukládat do nich lidské pozůstatky nebo provádět exhumaci je oprávněn provozovatel pohřební služby, který na základě smlouvy s vypravitelem pohřbu hodlá na pohřebišti pohřbít lidské pozůstatky (viz čl. 9). </para>
+            </listitem>
+            <listitem>
+               <para>Obdobně jako při přijímání lidských pozůstatků k pohřbení provozovatel dbá na to, aby převzetí nezpopelněných lidských ostatků bylo doloženo alespoň úmrtním listem a průvodním dopisem s uvedením, o čí ostatky se jedná, odkud jsou (číslo hrobu a název pohřebiště) a v koho zájmu se exhumace a převoz prováděl (číslo objednávky a smluvní strany); u urny postačí předložit doklad o zpopelnění, který obsahuje údaje shodné s identifikačním štítkem. Tyto dokumenty by měly být podkladem i pro evidenci související s provozováním pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Zpopelněné lidské ostatky je možné uložit na pohřebišti vždy jen se souhlasem nájemce hrobového místa a provozovatele, u hrobů zpravidla k nohám do niky, jinak v ochranném obalu. </para>
+            </listitem>
+            <listitem>
+               <para>V době po úmrtí nájemce, má-li být tento uložen do hrobu, jehož byl nájemcem, zajistí provozovatel úhradu nájemného na dobu tlecí od vypravitele pohřbu nebo jiné zmocněné osoby. </para>
+            </listitem>
+            <listitem>
+               <para>Bez ohledu na uplynutí tlecí doby může být s nezpopelněnými i zpopelněnými lidskými ostatky v rámci pohřebiště manipulováno pouze na základě předchozího souhlasu provozovatele pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Nezpopelněné i zpopelněné lidské ostatky mohou být exhumovány, tj. přemístěny nebo převezeny na jiné pohřebiště, pouze na písemnou a odůvodněnou žádost nájemce hrobového místa a nájemce nového hrobového místa na jiném pohřebišti, a to jen s písemným souhlasem provozovatele pohřebiště. Převoz exhumovaných nezpopelněných lidských ostatků na jiné pohřebiště musí být předem objednán u provozovatele pohřební služby a objednávka k žádosti přiložena. Nájemce hrobového místa doloží k žádosti o exhumaci vždy skutečnost úmrtí podle § 22 odst. 2 zákona o pohřebnictví a písemný souhlas osoby uvedené v § 114 odst. 1 občanského zákoníku. Před exhumací nezetlelých lidských ostatků musí nájemce hrobového místa písemně požádat o souhlas také krajskou hygienickou stanici. </para>
+            </listitem>
+            <listitem>
+               <para>Exhumace nezpopelněných lidských ostatků za účelem jejich zpopelení v krematoriu je zakázáno. Výjimky dle individuální žádosti může podle Čl. 11 schválit pouze provozovatel pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Všechny rakve včetně exhumačních musí být označeny štítkem nejméně se jménem zemřelého, datem narození, datem úmrtí, dnem pohřbu a názvem provádějící pohřební služby. </para>
+            </listitem>
+            <listitem>
+               <para>Rakve, použité pro pohřbívání do země, musí být vyrobeny z takových materiálů, aby ve stanovené tlecí době zetlely spolu s lidskými ostatky. Za zetlelé se považují zbytky rakví (hlavních desek) o maximální velikosti 0,5 m2 držící vcelku. Pro výrobu rakví ukládaných do hrobu na pohřebišti, nesmějí být použity díly z nerozložitelných materiálů. Kovový díl (madla rakve apod.) lze použít jen omezeně. </para>
+            </listitem>
+            <listitem>
+               <para>Výplň rakví (vystýlka), transportní vaky vložené do rakví a rubáše mohou být vyrobeny pouze z lehce rozložitelných materiálů jako dřevěné piliny, papír, u vaků rozložitelné plasty a u rubášů látky. Tkanina, ze které je oblečení zemřelého vyrobeno, by měla být nejlépe bez chemických příměsí. </para>
+            </listitem>
+            <listitem>
+               <para>K výrobě rakví a jejich nátěrů nesmí být použity barvy, lepidla a tvrdidla, obsahující složky škodlivých látek. </para>
+            </listitem>
+            <listitem>
+               <para>Milodary vložené do rakve mohou být vyrobeny také pouze ze snadno rozložitelných materiálů. </para>
+            </listitem>
+            <listitem>
+               <para>Pro pohřbívání do hrobek je nutno použít rakve vyrobené z dřevního materiálu s dlouhou trvanlivostí, do které bude umístěna poloviční zinková vložka, nebo, kovové, nebo dle ČSN Rakve. </para>
+            </listitem>
+            <listitem>
+               <para>Maximální rozměry rakví v hrobkách nesmějí překročit délku 2,15 m a šíři 0,85 m. </para>
+            </listitem>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 9</title>
-      <subtitle>Zřizování hrobového zařízení a podmínky provádění prací na pohřebišti</subtitle>
-      <para>Podmínky pro zřízení hrobového zařízení hrobu:<orderedlist numeration="loweralpha">
+      <subtitle>Podmínky pro otevření hrobu nebo hrobky provozovatelem pohřební služby</subtitle>
+      <para>
+         <orderedlist>
             <listitem>
-               <para>Základy musí odpovídat půdorysným rozměrům díla a hloubce základové spáry,
-                  která činí 800 mm.</para>
+               <para>Provozovatel pohřební služby, který hodlá na základě smlouvy s vypravitelem pohřbu potažmo zástupce třetí strany objednaný nájemcem hrobového místa na provedení výkopových prací souvisejících s pohřbením nebo exhumací smí otevřít hrob nebo hrobku na pohřebišti pro uložení lidských pozůstatků, nebo lidských ostatků, k provedení exhumace, popř. k jiným účelům jen se souhlasem provozovatele pohřebiště a po předložení dokumentů, které si pro tento účel vyžádá.</para>
             </listitem>
             <listitem>
-               <para>Základy památníků a náhrobků musí být zhotoveny z dostatečně únosného
-                  materiálu, odolného proti působení povětrnosti např. z prostého betonu či
-                  železobetonu, kamenného, příp. cihelného zdiva apod.</para>
+               <para>Otevření hrobu, u něhož neuplynula tlecí doba od posledního pohřbení, je možné provést jen tehdy, pokud příslušná krajská hygienická stanice povolila manipulaci s nezetlelými lidskými ostatky. </para>
             </listitem>
             <listitem>
-               <para>Přední a zadní rámy hrobu musí být v jedné přímce s rámy sousedních
-                  hrobů.</para>
+               <para>Provozovatel pohřebiště může odmítnout otevření hrobu nebo hrobky, jsou-li k tomu závažné důvody, např. bezprostřední blízkost vzrostlého stromu, u něhož by musely být přerušeny hlavní kořeny (což by vedlo k narušení stability stromu), pokud je pohřebiště a jeho porost v nepříznivém stavu v důsledku vichřic, dešťových srážek, nebo pokrytí povrchu sněhem a ledem. </para>
             </listitem>
             <listitem>
-               <para>Vlastní náhrobek a rámy musí být mezi sebou jednotlivě kotveny.</para>
+               <para>Rakev s lidskými pozůstatky musí být po uložení do hrobu zasypána zkypřenou zeminou ve výši minimálně 1,2 m.</para>
             </listitem>
-         </orderedlist></para>
-      <para>Podmínky pro zřízení hrobového hrobky:<orderedlist numeration="loweralpha">
-            <listitem>
-               <para>Hloubka výkopu musí odpovídat počtu uvažovaných uložených rakví.</para>
-            </listitem>
-            <listitem>
-               <para>Stěny musí být vybudovány z porézních materiálů (např. cihly), pokud bude
-                  použit litý beton, musí být vyvedena z hrobu difuzní zátka.</para>
-            </listitem>
-            <listitem>
-               <para>Stěny hrobky z porézních materiálů musí mít šíři nejméně 30 cm, v případě užití
-                  litého betonu nejméně 15 cm, a musí být izolovány přizdívkou, včetně impregnačních
-                  nátěrů.</para>
-            </listitem>
-            <listitem>
-               <para>Dno hrobky může být bez betonového pokryvu (pouze kopaná zemina). V případě, že
-                  bude dno vybetonováno, musí být zřízen trativod o rozměrech nejméně 40x40 a
-                  hloubce 50 cm, vyplněný drenáží.</para>
-            </listitem>
-            <listitem>
-               <para>Zdivo musí být umístěno na betonovém základu min. 80 cm vysokém v šíři podle
-                  předpokládané vyzdívky.</para>
-            </listitem>
-            <listitem>
-               <para>Do stěn musí týt zabudovány vstupní otvory s madly.</para>
-            </listitem>
-            <listitem>
-               <para>Kovové prvky v hrobce (traverzy pro uložení rakví a stropní nosiče) musí být
-                  opatřeny antikorozními nátěry a jejich stav musí být kontrolován nejméně jednou za
-                  10 let.</para>
-            </listitem>
-            <listitem>
-               <para>Zastropení hrobky je nutné provést tak, aby mohly být rakve lehce umístěny na
-                  jednotlivá stanoviště s tím, že vstupní otvor a vlastní světlost hrobky musí být
-                  nejméně 220 cm (podle velkosti rakví).</para>
-            </listitem>
-            <listitem>
-               <para>Na zastropení a uzavření hrobky musí být použity železobetonové překlady,
-                  jejich spáry zality betonem a povrch zaizolován.</para>
-            </listitem>
-            <listitem>
-               <para>Na zastropení je nutno použít 20 cm zeminy sloužící jako pachová zátka, nebo
-                  umísti krycí desku neprodyšně uzavírající hrobku, se spárami vytmelenými trvalými
-                  tmely.</para>
-            </listitem>
-            <listitem>
-               <para>Nosnost stropu musí být nejméně 100 kg na 1 m2.</para>
-            </listitem>
-            <listitem>
-               <para>Vlastní hrobové zařízení s výjimkou rámu musí být postaveno mimo hlavní
-                  konstrukci hrobky, na samostatném základu.</para>
-            </listitem>
-         </orderedlist></para>
-      <para>Správce pohřebiště ve svém souladu se zřízením hrobky stanoví:<itemizedlist>
-            <listitem>
-               <para>dobu výstavby hrobky</para>
-            </listitem>
-            <listitem>
-               <para>zabezpečení místa z hlediska pádu osob a bezpečnosti návštěvníků
-                  hřbitova</para>
-            </listitem>
-            <listitem>
-               <para>požadavky na ochranu zeleně v okolí staveniště</para>
-            </listitem>
-            <listitem>
-               <para>podmínky používání komunikace pohřebiště</para>
-            </listitem>
-            <listitem>
-               <para>způsob skladování materiálů, odpadů, a jejich likvidace</para>
-            </listitem>
-            <listitem>
-               <para>povinnost dozoru při výstavbě</para>
-            </listitem>
-            <listitem>
-               <para>průběžné a závěrečné kontroly postupu prací.</para>
-            </listitem>
-         </itemizedlist></para>
-      <para>Zřízenou hrobku přejímá po technické stránce správce pohřebiště.</para>
-      <para>Při provádění veškerých prací na pohřebišti je třeba dodržovat podmínky dohodnuté
-         správcem pohřebiště, zejména:<itemizedlist>
-            <listitem>
-               <para>respektování důstojnosti místa a omezení hlučných prací</para>
-            </listitem>
-            <listitem>
-               <para>neomezování průchodnosti komunikace a přístupu k jednotlivým hrobovým
-                  místům</para>
-            </listitem>
-            <listitem>
-               <para>nenarušování hrobových míst nebo jakékoli jiné omezování práv nájemců hrobových
-                  míst.</para>
-            </listitem>
-         </itemizedlist></para>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 10</title>
-      <subtitle>Zrušovací ustanovení</subtitle>
-      <para>Dnem účinnosti nového Řádu veřejného pohřebiště se ruší platnost Hřbitovního
-         řádu,vydaného dne 21.4.1994.</para>
+      <subtitle>Dřeviny a lavičky</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Dřeviny lze na pohřebišti vysazovat pouze se souhlasem provozovatele. Jedná se o dřeviny, které by v budoucnu vykazovaly znaky vzrostlých stromů a mohly by způsobovat škody na majetku a ohrožovat bezpečnost návštěvníků. </para>
+            </listitem>
+            <listitem>
+               <para>Provozovatel může dle svého uvážení a bez souhlasu nájemce odstranit vysazené dřeviny, k jejíž výsadbě nedal souhlas. </para>
+            </listitem>
+            <listitem>
+               <para>Nájemce ani návštěvník pohřebiště není oprávněn provádět jakékoli zásahy do vzrostlé zeleně bez předchozího souhlasu provozovatel. </para>
+            </listitem>
+            <listitem>
+               <para>Pevné i přenosné lavičky instaluje na pohřebišti provozovatel. Lavičky mohou užívat všichni návštěvníci pohřebiště. </para>
+            </listitem>
+         </orderedlist>
+      </para>
    </simplesect>
    <simplesect>
       <title>Článek 11</title>
-      <subtitle>Účinnost</subtitle>
-      <para>Tento Řád veřejného pohřebiště nabývá účinnosti dnem 27.9.2002</para>
-      <para>Jaroslava Krobová, starosta obce</para>
-      <para>Václav Špaček, místostarosta obce</para>
+      <subtitle>Sankce</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Porušení tohoto Řádu bude postihováno podle § 5 odst. 1 písm. i) zákona č. 251/2016 Sb., o některých přestupcích jako přestupek proti veřejnému pořádku, zvláště pokud fyzická osoba poruší podmínky uložené v tomto Řádu při konání pohřbu nebo pietního aktu. </para>
+            </listitem>
+            <listitem>
+               <para>Přestupku se dopustí také ten, kdo dle zákona o pohřebnictví <orderedlist numeration="loweralpha">
+                     <listitem>
+                        <para>v rozporu s § 4 odst. 1 písm. f) zachází s lidskými pozůstatky nebo lidskými ostatky na pohřebišti způsobem dotýkajícím se důstojnosti zemřelého nebo mravního cítění veřejnosti, </para>
+                     </listitem>
+                     <listitem>
+                        <para>v rozporu s § 4 odst. 1 písm. g) neoprávněně otevře na pohřebišti konečnou rakev s lidskými pozůstatky nebo urnu s lidskými ostatky, </para>
+                     </listitem>
+                     <listitem>
+                        <para>v rozporu s § 4 odst. 1 písm. h) neoprávněně otevře na pohřebišti hrob nebo hrobku nebo neoprávněně provádí exhumaci, </para>
+                     </listitem>
+                  </orderedlist></para>
+            </listitem>
+            <listitem>
+               <para>Za přestupky uvedené výše lze uložit pokutu až do výše 100 000,- Kč ve smyslu § 26 zákona o pohřebnictví. </para>
+            </listitem>
+         </orderedlist>
+      </para>
+   </simplesect>
+   <simplesect>
+      <title>Článek 12</title>
+      <subtitle>Ostatní ustanovení</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Právní vztahy neupravené tímto řádem, vztahující se k provozování pohřebiště, se řídí zákonem o pohřebnictví. </para>
+            </listitem>
+            <listitem>
+               <para>Pokud se písemný styk provádí doručenkou na adresu nájemce místa na pohřebišti, platí fikce doručení uplynutím posledního dne úložní lhůty u pošty. </para>
+            </listitem>
+            <listitem>
+               <para>Kontrolu dodržování tohoto Řádu provádí provozovatel pohřebiště a městská policie Rychnov nad Kněžnou. </para>
+            </listitem>
+            <listitem>
+               <para>Výjimky z Řádu pohřebiště dle individuální žádosti může schválit provozovatel pohřebiště. </para>
+            </listitem>
+            <listitem>
+               <para>Pokud pohřebiště, nebo jeho část, včetně hrobových zařízení, jsou zapsány v seznamu kulturních památek, nebo se nacházejí na území památkového zájmu, či jsou v seznamu válečných hrobů a pohřebišť vztahují se na péči o ně zvláštní právní předpisy.</para>
+            </listitem>
+         </orderedlist>
+      </para>
+   </simplesect>
+   <simplesect>
+      <title>Článek 13</title>
+      <subtitle>Zrušující ustanovení</subtitle>
+      <para>Dnem nabytí účinnosti tohoto schváleného Řádu pohřebiště se zrušuje v celém rozsahu Řád pohřebiště, schválený Zastupitelstvem obce Bílý Újezd, ze dne 26.9.2002.</para>
+   </simplesect>
+   <simplesect>
+      <title>Článek 14</title>
+      <subtitle>Závěrečné ustanovení</subtitle>
+      <para>
+         <orderedlist>
+            <listitem>
+               <para>Tento řád je účinný dnem 1. července 2021. </para>
+            </listitem>
+            <listitem>
+               <para>Řád veřejného pohřebiště byl vyvěšen na úřední desce Obecního úřadu v Bílém Újezdu po dobu min. 15-ti dnů (od 10.6.2021 do 27.6.2021) a po celou dobu platnosti tohoto řádu je vyvěšen na pohřebišti na místě obvyklém. </para>
+            </listitem>
+         </orderedlist>
+      </para>
+      <para>V Bílém Újezdu dne: 10. června 2021</para>
+      <para>Zdeněk Arnošt, starosta obce</para>
    </simplesect>
 </section>
