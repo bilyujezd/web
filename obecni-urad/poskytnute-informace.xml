@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="5.0" xml:id="poskytnute-informace">
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+   xml:id="poskytnute-informace">
    <title>Poskytnuté informace</title>
    <itemizedlist>
       <listitem>
          <para><link
-            xlink:href="data/poskytnute-informace/poskytnute-informace-2013-1-investicni-plany-obce-na-rok-2014.pdf"
+               xlink:href="data/poskytnute-informace/poskytnute-informace-2013-1-investicni-plany-obce-na-rok-2014.pdf"
                >2013/1 - investiční plány obce na rok 2014</link></para>
       </listitem>
       <listitem>
          <para><link
-            xlink:href="data/poskytnute-informace/poskytnute-informace-2014-1-podklady-pro-stanoveni-smerneho-koeficientu-obce.pdf"
-               >2014/1 - podklady pro stanovení směrného koeficientu obce (dopravní obslužnost,
-               občanská vybavenost)</link></para>
+               xlink:href="data/poskytnute-informace/poskytnute-informace-2014-1-podklady-pro-stanoveni-smerneho-koeficientu-obce.pdf"
+               >2014/1 - podklady pro stanovení směrného koeficientu obce (dopravní obslužnost, občanská
+               vybavenost)</link></para>
       </listitem>
       <listitem>
          <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2015-1-pocet-cisel-popisnych.pdf">2015/1
                - počet čísel popisných</link></para>
       </listitem>
       <listitem>
-         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2015-2-investicni-plan-obce.pdf">2015/2 -
-               investiční plán obce pro rok 2015</link></para>
+         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2015-2-investicni-plan-obce.pdf">2015/2
+               - investiční plán obce pro rok 2015</link></para>
       </listitem>
       <listitem>
-         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2016-1-investicni-plan-obce.pdf">2016/1 -
-               investiční plán obce pro rok 2016</link></para>
+         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2016-1-investicni-plan-obce.pdf">2016/1
+               - investiční plán obce pro rok 2016</link></para>
       </listitem>
       <listitem>
          <para><link
-            xlink:href="data/poskytnute-informace/poskytnute-informace-2016-2-vypis-z-bankovniho-uctu-09-2016.pdf"
+               xlink:href="data/poskytnute-informace/poskytnute-informace-2016-2-vypis-z-bankovniho-uctu-09-2016.pdf"
                >2016/2 - výpis z bankovního účtu obce za měsíc 09/2016</link></para>
       </listitem>
       <listitem>
-         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2017-1-investicni-plan-obce.pdf">2017/1 -
-               investiční plán obce pro rok 2017</link></para>
+         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2017-1-investicni-plan-obce.pdf">2017/1
+               - investiční plán obce pro rok 2017</link></para>
       </listitem>
       <listitem>
          <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2017-2-socialni-bydleni.pdf">2017/2 -
@@ -49,16 +49,24 @@
       </listitem>
       <listitem>
          <para><link
-            xlink:href="data/poskytnute-informace/poskytnute-informace-2017-5-inzenyrske-site-v-miste-budouci-stavby.pdf"
+               xlink:href="data/poskytnute-informace/poskytnute-informace-2017-5-inzenyrske-site-v-miste-budouci-stavby.pdf"
                >2017/5 - inženýrské sítě v místě budoucí stavby</link></para>
       </listitem>
       <listitem>
-         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2018-1-dluhy-pravnickych-osob.pdf">2018/1
-               - dluhy právnických osob</link></para>
+         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2018-1-dluhy-pravnickych-osob.pdf"
+               >2018/1 - dluhy právnických osob</link></para>
       </listitem>
       <listitem>
-         <para><link xlink:href="data/poskytnute-informace/poskytnute-informace-2019-1-podane-nabidky-od-firem-domistav-hk-a-domistav-cz.pdf">2019/1
-            - podané nabídky od firem Dimistav HK a Domistav CZ</link></para>
+         <para><link xlink:href="data/poskytnute-informace-2019-1-podane-nabidky-od-firem-domistav-hk-a-domistav-cz.pdf"
+               >2019/1 - podané nabídky od firem Domistav HK a Domistav CZ</link></para>
+      </listitem>
+      <listitem>
+         <para><link xlink:href="data/poskytnute-informace-2021-1-preposlani-vyrozumeni.pdf">2021/1 - přeposlání
+               vyrozumění</link></para>
+      </listitem>
+      <listitem>
+         <para><link xlink:href="data/poskytnute-informace-2021-2-odlozeni-zadosti">2021/2 - odložení
+            žádosti</link></para>
       </listitem>
    </itemizedlist>
 </section>
