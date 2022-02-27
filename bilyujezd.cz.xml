@@ -260,6 +260,7 @@
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2018.xml"/>
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2019.xml"/>
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2020.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2021.xml"/>
       </section>
       <xi:include href="obecni-urad/uredni-deska.xml"/>
       <xi:include href="obecni-urad/uredni-deska-archiv.xml"/>
