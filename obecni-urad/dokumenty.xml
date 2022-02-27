@@ -2,7 +2,7 @@
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
    xml:id="dokumenty">
    <title>Dokumenty</title>
-   <simplesect xml:id="seznamy-hlavnich-dokumentu">
+   <section xml:id="seznamy-hlavnich-dokumentu">
       <title>Seznamy hlavních dokumentů</title>
       <itemizedlist>
          <listitem>
@@ -41,8 +41,8 @@
             </itemizedlist>
          </listitem>
       </itemizedlist>
-   </simplesect>
-   <simplesect xml:id="uzemni-plan">
+   </section>
+   <section xml:id="uzemni-plan">
       <title>Územní plán</title>
       <itemizedlist>
          <listitem>
@@ -148,8 +148,8 @@
             </itemizedlist>
          </listitem>
       </itemizedlist>
-   </simplesect>
-   <simplesect xml:id="rozpocet">
+   </section>
+   <section xml:id="rozpocet">
       <title>Rozpočet</title>
       <itemizedlist>
          <listitem>
@@ -428,5 +428,14 @@
             </itemizedlist>
          </listitem>
       </itemizedlist>
-   </simplesect>
+   </section>
+   <section xml:id="odpadove-hospodarstvi">
+      <title>Odpadové hospodářství</title>
+      <itemizedlist>
+         <listitem>
+            <para><link
+               xlink:href="data/odpadove-hospodarstvi-2021.pdf">2021</link></para>
+         </listitem>
+      </itemizedlist>
+   </section>
 </section>
