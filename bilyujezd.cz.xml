@@ -312,6 +312,7 @@
    <chapter xml:id="informace">
       <title>Informace</title>
       <xi:include href="informace/sanace-skalni-steny-hroska.xml"/>
+      <xi:include href="informace/vybaveni-jednotky-jpov-bily-ujezd.xml"/>
    </chapter>
    <chapter xml:id="o-strankach">
       <title>O stránkách</title>
