@@ -18,19 +18,19 @@
          <tbody>
             <tr>
                <td>Starosta</td>
-               <td>Zdeněk Arnošt</td>
+               <td>Mgr. Michal Friček </td>
                <td>Bílý Újezd</td>
                <td>724 183 043</td>
                <td>494 666 900</td>
                <td>bily.ujezd@tiscali.cz</td>
             </tr>
             <tr>
-               <td>Místostarostka</td>
-               <td>Mgr. Simona Hejhalová</td>
-               <td>Bílý Újezd</td>
-               <td>776 765 667</td>
-               <td>494 509 161</td>
-               <td>simona.hejhalova@rychnov-city.cz</td>
+               <td>Místostarosta</td>
+               <td>Jindřich Kubíček</td>
+               <td>Hroška</td>
+               <td>606 610 734</td>
+               <td>–</td>
+               <td>–</td>
             </tr>
             <tr>
                <td>Účetní</td>
@@ -54,8 +54,16 @@
          </thead>
          <tbody>
             <tr>
-               <td>Václav Špaček</td>
-               <td>Masty</td>
+               <td>Mgr. Michal Friček</td>
+               <td>Bílý Újezd</td>
+            </tr>
+            <tr>
+               <td>Jindřich Kubíček</td>
+               <td>Hroška</td>
+            </tr>
+            <tr>
+               <td>Zdeněk Arnošt</td>
+               <td>Bílý Újezd</td>
             </tr>
             <tr>
                <td>Vít Kovář</td>
@@ -66,28 +74,24 @@
                <td>Hroška</td>
             </tr>
             <tr>
-               <td>Miloš Červinka</td>
-               <td>Hroška</td>
+               <td>Jiří Jiroud</td>
+               <td>Bílý Újezd</td>
             </tr>
             <tr>
                <td>Josef Hanuš</td>
                <td>Roudné</td>
             </tr>
             <tr>
-               <td>Dagmar Židová Bc.</td>
+               <td>Roman Frajvald</td>
                <td>Bílý Újezd</td>
             </tr>
             <tr>
-               <td>Mgr. Michal Friček</td>
+               <td>Ing. Zdeněk Kováříček</td>
                <td>Bílý Újezd</td>
             </tr>
             <tr>
-               <td>Jindřich Kubíček</td>
-               <td>Hroška</td>
-            </tr>
-            <tr>
-               <td>Jaroslav Hlavsa</td>
-               <td>Hroška</td>
+               <td>Mgr. Tomáš Novotný</td>
+               <td>Bílý Újezd</td>
             </tr>
          </tbody>
       </informaltable>
@@ -96,10 +100,10 @@
       <title>Finanční výbor</title>
       <itemizedlist>
          <listitem>
-            <para>předseda: Dagmar Židová Bc.</para>
+            <para>předseda: Zdeněk Arnošt</para>
          </listitem>
          <listitem>
-            <para>členové: Jindřich Kubíček, Pavlína Horáčková</para>
+            <para>členové: Pavlína Horáčková, Jiří Jiroud</para>
          </listitem>
       </itemizedlist>
    </simplesect>
@@ -107,10 +111,10 @@
       <title>Kontrolní výbor</title>
       <itemizedlist>
          <listitem>
-            <para>předseda: Jaroslav Hlavsa</para>
+            <para>předseda: Vít Kovář</para>
          </listitem>
          <listitem>
-            <para>členové: Josef Hanuš, Miloš Červinka</para>
+            <para>členové: Josef Hanuš, Ing. Zdeněk Kováříček </para>
          </listitem>
       </itemizedlist>
    </simplesect>
