@@ -310,6 +310,27 @@
       <para>Již brzy - zaniklá slovanská osada u Hrošky, vysušené rybníky v okolí Hrošky a jiné
          zajímavosti.</para>
    </chapter>
+   <chapter xml:id="knihovny">
+      <title>Knihovny</title>
+      <simplesect xml:id="mistni-knihovna-bily-ujezd">
+         <title>Místní knihovna Bílý Újezd</title>
+         <para><emphasis role="bold">Kde</emphasis>: Bílý Újezd 42 (budova obecního úřadu), 1. patro</para>
+         <para><emphasis role="bold">Kdy</emphasis>: Každé pondělí 18:00 - 19:00 h</para>
+         <para><emphasis role="bold">Co</emphasis>: Knihy všech žánrů: detektivky, pro děti, romantické příběhy,
+            thrillery, knihy českých autorů, povinná četba atd.</para>
+         <para><emphasis role="bold">Info</emphasis>: <link xlink:href="https://knihovnabilyujezd.webk.cz/"
+            >https://knihovnabilyujezd.webk.cz/</link></para>
+      </simplesect>
+      <simplesect xml:id="mistni-knihovna-hroska">
+         <title>Místní knihovna Hroška</title>
+         <para><emphasis role="bold">Kde</emphasis>: Hroška 109 (budova kampeličky), 1. patro</para>
+         <para><emphasis role="bold">Kdy</emphasis>: Každý pátek 18:00 - 19:00 h</para>
+         <para><emphasis role="bold">Co</emphasis>: Knihy všech žánrů: detektivky, pro děti, romantické příběhy,
+            thrillery, knihy českých autorů, povinná četba atd.</para>
+         <para><emphasis role="bold">Info</emphasis>: <link xlink:href="https://knihovnahroska.webk.cz/"
+               >https://knihovnahroska.webk.cz/</link></para>
+      </simplesect>
+   </chapter>
    <chapter xml:id="informace">
       <title>Informace</title>
       <xi:include href="informace/sanace-skalni-steny-hroska.xml"/>
