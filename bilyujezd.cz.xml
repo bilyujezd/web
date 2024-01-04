@@ -249,10 +249,10 @@
          <title>Obecně závazné vyhlášky</title>
          <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2008-01.xml"/>
          <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2008-03.xml"/>
-         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2019-02.xml"/>
          <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2020-01.xml"/>
-         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2021-01.xml"/>
-         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2021-02.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2023-01.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2024-odpady.xml"/>
+         <xi:include href="obecni-urad/obecne-zavazne-vyhlasky/vyhlaska-2024-psi.xml"/>
       </section>
       <section xml:id="usneseni-zastupitelstva-obce">
          <title>Usnesení zastupitelstva obce</title>
@@ -262,6 +262,8 @@
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2019.xml"/>
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2020.xml"/>
          <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2021.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2022.xml"/>
+         <xi:include href="obecni-urad/usneseni-zastupitelstva-obce/usneseni-2023.xml"/>
       </section>
       <xi:include href="obecni-urad/uredni-deska.xml"/>
       <xi:include href="obecni-urad/uredni-deska-archiv.xml"/>
@@ -315,7 +317,7 @@
       <simplesect xml:id="mistni-knihovna-bily-ujezd">
          <title>Místní knihovna Bílý Újezd</title>
          <para><emphasis role="bold">Kde</emphasis>: Bílý Újezd 42 (budova obecního úřadu), 1. patro</para>
-         <para><emphasis role="bold">Kdy</emphasis>: Každé pondělí 18:00 - 19:00 h</para>
+         <para><emphasis role="bold">Kdy</emphasis>: Každé pondělí 17:00 - 18:00 h + sudé neděle 16:30 - 17:30</para>
          <para><emphasis role="bold">Co</emphasis>: Knihy všech žánrů: detektivky, pro děti, romantické příběhy,
             thrillery, knihy českých autorů, povinná četba atd.</para>
          <para><emphasis role="bold">Info</emphasis>: <link xlink:href="https://knihovnabilyujezd.webk.cz/"
