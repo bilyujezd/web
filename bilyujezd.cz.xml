@@ -338,6 +338,7 @@
       <xi:include href="informace/sanace-skalni-steny-hroska.xml"/>
       <xi:include href="informace/vybaveni-jednotky-jpov-bily-ujezd.xml"/>
       <xi:include href="informace/chodnik-podel-silnice-I-14-v-bilem-ujezdu.xml"/>
+      <xi:include href="informace/cyklisticka-stezka-jestetice-bily-ujezd-podbrezi.xml"/>
    </chapter>
    <chapter xml:id="o-strankach">
       <title>O stránkách</title>
