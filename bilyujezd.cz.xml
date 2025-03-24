@@ -243,6 +243,9 @@
          <xi:include href="obecni-urad/vyrocni-zprava-2019.xml"/>
          <xi:include href="obecni-urad/vyrocni-zprava-2020.xml"/>
          <xi:include href="obecni-urad/vyrocni-zprava-2021.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2022.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2023.xml"/>
+         <xi:include href="obecni-urad/vyrocni-zprava-2024.xml"/>
          <xi:include href="obecni-urad/poskytnute-informace.xml"/>
       </section>
       <section xml:id="obecne-zavazne-vyhlasky">
