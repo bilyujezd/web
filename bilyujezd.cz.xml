@@ -345,6 +345,7 @@
       <xi:include href="informace/chodnik-podel-silnice-I-14-v-bilem-ujezdu.xml"/>
       <xi:include href="informace/cyklisticka-stezka-jestetice-bily-ujezd-podbrezi.xml"/>
       <xi:include href="informace/venkovni-ucebna-zs-ms-bily-ujezd.xml"/>
+      <xi:include href="informace/mistni-energeticka-koncepce-obce.xml"/>
    </chapter>
    <chapter xml:id="o-strankach">
       <title>O stránkách</title>

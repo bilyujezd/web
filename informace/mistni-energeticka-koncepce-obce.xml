@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+   xml:id="mistni-energeticka-koncepce-obce">
+   <title>Místní energetická koncepce obce</title>
+   <para>Místní energetická koncepce (MEK) je strategický dokument, který definuje cíle a opatření pro zajištění
+      udržitelného a efektivního využívání energie v naší obci. Naším cílem je snížit energetickou náročnost, zvýšit
+      podíl obnovitelných zdrojů energie a zlepšit kvalitu života našich obyvatel.</para>
+   <simplesect>
+      <title>Hlavní cíle MEK</title>
+      <orderedlist>
+         <listitem>
+            <formalpara>
+               <title>Snížení energetické náročnosti</title>
+               <para>Implementace opatření ke snížení spotřeby energie v obecních budovách a infrastruktuře.</para>
+            </formalpara>
+         </listitem>
+         <listitem>
+            <formalpara>
+               <title>Podpora obnovitelných zdrojů energie</title>
+               <para>Zvýšení podílu energie získané z obnovitelných zdrojů, jako jsou solární panely, větrné turbíny
+                  nebo biomasa.</para>
+            </formalpara>
+         </listitem>
+         <listitem>
+            <formalpara>
+               <title>Zlepšení energetické účinnosti</title>
+               <para>Modernizace a optimalizace energetických systémů a zařízení v obci.</para>
+            </formalpara>
+         </listitem>
+         <listitem>
+            <formalpara>
+               <title>Osvěta a vzdělávání</title>
+               <para>Informování a vzdělávání obyvatel o možnostech úspor energie a využívání obnovitelných
+                  zdrojů.</para>
+            </formalpara>
+         </listitem>
+      </orderedlist>
+   </simplesect>
+   <simplesect>
+      <title>Jak se můžou občané zapojit?</title>
+      <itemizedlist>
+         <listitem>
+            <formalpara>
+               <title>Účast na veřejných setkáních</title>
+               <para>Přijďte na naše veřejná setkání a podělte se o své nápady a připomínky.</para>
+            </formalpara>
+         </listitem>
+         <listitem>
+            <formalpara>
+               <title>Vzdělávací programy</title>
+               <para>Zúčastněte se vzdělávacích seminářů a workshopů zaměřených na úspory energie a obnovitelné
+                  zdroje.</para>
+            </formalpara>
+         </listitem>
+         <listitem>
+            <formalpara>
+               <title>Podpora komunitních projektů</title>
+               <para>Zapojte se do komunitních projektů a iniciativ zaměřených na zlepšení energetické účinnosti.</para>
+            </formalpara>
+         </listitem>
+      </itemizedlist>
+      <para><emphasis role="bold">Tento projekt je financován z prostředků Evropské uniez fondu Next Generation EU,
+            Národní plán obnovy.</emphasis></para>
+      <para><link xlink:href="data/mistni-energeticka-koncepce-obce-projektovy-plakat.pdf">Projektový plakát</link> (PDF
+         100 kB)</para>
+   </simplesect>
+</section>
