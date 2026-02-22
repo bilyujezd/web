@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
-   xml:id="vyhlaska-2024-05">
+   xml:id="vyhlaska-2025-03">
    <title>Obecně závazná vyhláška</title>
-   <subtitle>obce Bílý Újezd č. 5/2024</subtitle>
-   <titleabbrev>Systém odpadového hospodářství (05/2024)</titleabbrev>
+   <subtitle>obce Bílý Újezd č. 3/2025</subtitle>
+   <titleabbrev>Systém odpadového hospodářství (03/2025)</titleabbrev>
    <para><emphasis role="bold">o stanovení obecního systému odpadového hospodářství</emphasis></para>
-   <para>Zastupitelstvo obce Bílý Újezd se na svém zasedání dne 12. 12. 2024 usnesením č. 16/2024 usneslo vydat na
+   <para>Zastupitelstvo obce Bílý Újezd se na svém zasedání dne 17. 9. 2025 usnesením č. 20/2025 usneslo vydat na
       základě § 59 odst. 4 zákona č. 541/2020 Sb., o odpadech (dále jen „zákon o odpadech“), a v souladu s § 10 písm. d)
       a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto
       obecně závaznou vyhlášku (dále jen „vyhláška“):</para>
@@ -54,6 +54,9 @@
                      <para>Sklo,</para>
                   </listitem>
                   <listitem>
+                     <para>Kovy,</para>
+                  </listitem>
+                  <listitem>
                      <para>Nebezpečné odpady,</para>
                   </listitem>
                   <listitem>
@@ -72,7 +75,7 @@
          </listitem>
          <listitem>
             <para>Směsným komunálním odpadem se rozumí zbylý komunální odpad po stanoveném vytřídění podle odstavce 1
-               písm. a) až h). </para>
+               písm. a) až i). </para>
          </listitem>
          <listitem>
             <para>Objemný odpad je takový odpad, který vzhledem ke svým rozměrům nemůže být umístěn do sběrných
@@ -101,7 +104,7 @@
                      <para>sklo – barva zelená</para>
                   </listitem>
                   <listitem>
-                     <para>plasty, nápojové kartony – barva žlutá</para>
+                     <para>plasty, nápojové kartony, kovy (nápojové plechovky)  – barva žlutá</para>
                   </listitem>
                   <listitem>
                      <para>textil – barva bílá</para>
@@ -109,8 +112,8 @@
                </orderedlist></para>
          </listitem>
          <listitem>
-            <para>Biologické odpady budou soustřeďovány do kontejnerů umístěných na shromaždištích biologického
-               odpadu.</para>
+            <para>Biologické odpady budou soustřeďovány do označených kontejnerů umístěných na shromaždištích
+               biologického odpadu – p. č. 3128 v k. ú. Bílý Újezd u Dobrušky a p. č. 1044 v k. ú. Hroška.</para>
          </listitem>
       </orderedlist>
    </simplesect>
@@ -119,14 +122,14 @@
       <subtitle>Sběr a svoz nebezpečných složek komunálního odpadu</subtitle>
       <orderedlist>
          <listitem>
-            <para>Sběr a svoz nebezpečných složek komunálního odpadů je zajišťován oprávněnou osobou jejich odebíráním
-               na předem vyhlášených přechodných stanovištích přímo do zvláštních sběrných nádob k tomuto sběru
-               určených. Informace o sběru jsou zveřejňovány na úřední desce obecního úřadu, výlepových plochách a v
-               místním rozhlase.</para>
+            <para>Sběr a svoz nebezpečných složek komunálního odpadu je zajišťován minimálně dvakrát ročně oprávněnou
+               osobou jejich odebíráním na předem vyhlášených přechodných stanovištích přímo do zvláštních sběrných
+               nádob k tomuto sběru určených. Informace o sběru jsou zveřejňovány na úřední desce obecního úřadu,
+               výlepových plochách a v místním rozhlase.</para>
          </listitem>
          <listitem>
-            <para>V rámci svozu nebezpečných složek komunálního odpadu je zajišťován rovněž sběr a svoz jedlých olejů a
-               tuků.</para>
+            <para>V rámci svozu nebezpečných složek komunálního odpadu je vždy zajišťován rovněž sběr a svoz jedlých
+               olejů a tuků.</para>
          </listitem>
       </orderedlist>
    </simplesect>
@@ -136,7 +139,7 @@
       <orderedlist>
          <listitem>
             <para>Objemný odpad je takový odpad, který vzhledem ke svým rozměrům nemůže být umístěn do sběrných nádob
-                  (<emphasis>např. koberce, matrace, nábytek, … </emphasis>).</para>
+                  (<emphasis role="italic">např. koberce, matrace, nábytek …</emphasis>).</para>
          </listitem>
          <listitem>
             <para>Sběr a svoz objemného odpadu je zajišťován oprávněnou osobou jeho odebíráním na předem vyhlášených
@@ -210,8 +213,13 @@
                </orderedlist></para>
          </listitem>
          <listitem>
-            <para>Malé suché monočlánky, baterie a drobná elektrozařízení lze ukládat také do zvláštních označené nádoby
-               umístěné v budově obecního úřadu.</para>
+            <para>Zpětný odběr výrobků uvedených v odstavci 1 je zajišťován vždy v rámci svozu nebezpečných složek
+               komunálního odpadu. Informace o sběru jsou zveřejňovány na úřední desce obecního úřadu, výlepových
+               plochách a v místním rozhlase.</para>
+         </listitem>
+         <listitem>
+            <para>Malé suché monočlánky, baterie a drobná elektrozařízení lze celoročně ukládat do zvláštní označené
+               nádoby umístěné v budově obecního úřadu – Bílý Újezd 42.</para>
          </listitem>
       </orderedlist>
    </simplesect>
@@ -220,14 +228,15 @@
       <subtitle>Zrušující ustanovení</subtitle>
       <orderedlist>
          <listitem>
-            <para>Nabytím účinnosti této vyhlášky se zrušuje obecně závazná vyhláška obce č. 1/2008 ze dne 8. 4. 2008 o
-               stanovení systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování kom. odpadů
-               vznikajících na jejím katastrálním území, včetně systému nakládání se stavebním odpadem.</para>
-         </listitem>
-         <listitem>
-            <para>Tato obecně závazná vyhláška obce nabývá účinnosti dnem 1. 1. 2025.</para>
+            <para>Nabytím účinnosti této vyhlášky se zrušuje obecně závazná vyhláška obce č. 5/2024 ze dne 12. 12. 2024
+               o stanovení obecního systému odpadového hospodářství.</para>
          </listitem>
       </orderedlist>
+   </simplesect>
+   <simplesect>
+      <title>Čl. 10</title>
+      <subtitle>Účinnost</subtitle>
+      <para>Tato vyhláška nabývá účinnosti počátkem patnáctého dne následujícího po dni jejího vyhlášení.</para>
       <para>Mgr. Michal Friček, starosta</para>
       <para>Jindřich Kubíček, místostarosta</para>
    </simplesect>
