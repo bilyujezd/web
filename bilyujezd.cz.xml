@@ -349,6 +349,7 @@
       <xi:include href="informace/venkovni-ucebna-zs-ms-bily-ujezd.xml"/>
       <xi:include href="informace/mistni-energeticka-koncepce-obce.xml"/>
       <xi:include href="informace/instalace-fve-zs-ms-bily-ujezd.xml"/>
+      <xi:include href="informace/protipovodnovy-varovny-a-monitorovaci-system-obce-bily-ujezd.xml"/>
    </chapter>
    <chapter xml:id="o-strankach">
       <title>O stránkách</title>
